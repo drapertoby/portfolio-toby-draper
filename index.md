@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Home"
+---
 <h2 style="text-align: center;">Welcome to my showcase of data assignments and personal projects.</h2>
 
 <div style="text-align: center;">
