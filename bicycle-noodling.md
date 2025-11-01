@@ -9,3 +9,9 @@ permalink: /bicycle-noodling/
     I have taken some .fit files from TrainerRoad workouts completed historically. I will explore these and create visualisations using Python, PostgreSQL and Tableau.
   </p>
 </div>
+
+## Files and Visuals
+
+- [Notebook: FIT file transform](assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
+- [Workout CSV](assets/projects/bicycle-noodling/workout.csv)
+- ![Ride map](assets/projects/bicycle-noodling/ride-map.png)
