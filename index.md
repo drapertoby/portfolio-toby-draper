@@ -10,5 +10,11 @@ This site highlights hands-on analytics work, technical documentation, and explo
     <p>Exploring cycling training data using PostgressSQL, Python and Tableau.</p>
   </div>
 </div>
-- [LSE Assignment #1](lse-assignment-1.md): Used Excel, PostgreSQL, and Tableau to analyse retail marketing data and show how social media campaigns and discount strategies drive customer return and revenue. Visualised key relationships to support actionable insights.
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 300px; margin-right: 20px; border-radius: 6px;"/>
+  <div style="flex: 1;">
+    <h3><a href="https://github.com/drapertoby/bicycle-noodling">LSE Assignment #1</a></h3>
+    <p>Analysed retail marketing data with MS Excel, PostgreSQL and Tableau. Showed how social media campaigns and discount strategies drive customer return and revenue. Visualised key relationships to support actionable insights.</p>
+  </div>
+</div>
 - [LSE Assignment #2](lse-assignment-2.md): Describe NHS Data project here
