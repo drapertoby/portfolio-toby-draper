@@ -1,7 +1,7 @@
 <h2 style="text-align: center;">Welcome to my showcase of data assignments and personal projects.</h2>
 
 <div style="text-align: center;">
-This site highlights hands-on analytics work, technical documentation and exploratory data visualisations.  
+This site highlights hands-on analytics work, technical documentation and exploratory data visualisations.<br>
 It includes assignments from the Career Accelerator with the London School of Economics and Political Science, which I'm currently enrolled in, alongside personal projects.
 </div>
 
