@@ -3,8 +3,8 @@ layout: default
 title: "Home"
 ---
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <p style="margin: 0; font-size: 1.1rem; line-height: 1.6;">
-    <span style="font-size: 1.25rem; font-weight: bold;">Welcome to my showcase of data assignments and personal projects.</span><br>
+  <h2 style="margin-top: 0; font-size: 1.5rem;">Welcome to my showcase of data assignments and personal projects.</h2>
+  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
     This site features work from the Career Accelerator with the London School of Economics and Political Science, where I’m currently enrolled, alongside independent explorations in analytics, documentation, and data visualisation.
   </p>
 </div>
