@@ -23,7 +23,7 @@ title: "Home"
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
   <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 300px; margin-right: 20px; border-radius: 6px;"/>
   <div style="flex: 1;">
-    <h3><a href="https://github.com/drapertoby/bicycle-noodling">LSE Assignment #1</a></h3>
+    <h3><a href="/lse-assignment-1/">LSE Assignment #1</a></h3>
     <p>Analysed retail marketing data with MS Excel, PostgreSQL and Tableau. Showed how social media campaigns and discount strategies drive customer return and revenue. Visualised key relationships to support actionable insights.</p>
   </div>
 </div>
