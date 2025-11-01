@@ -5,7 +5,7 @@ title: "Home"
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
   <p style="margin: 0; font-size: 1.1rem; line-height: 1.6;">
     <strong>Welcome to my showcase of data assignments and personal projects.</strong><br>
-    This site features work from the Career Accelerator with the London School of Economics and Political Science, where I’m currently enrolled, alongside independent explorations in analytics, documentation, and data visualisation.
+    This site features work from the Career Accelerator with the London School of Economics and Political Science, where I’m currently enrolled, alongside independent explorations in analytics, documentation, and visualisation.
   </p>
 </div>
 ## Projects
