@@ -3,6 +3,12 @@ This site highlights hands-on analytics work, technical documentation, and explo
 
 ## Projects
 
-- [Bicycle Noodling](https://github.com/drapertoby/bicycle-noodling): Exploring cycling training data using PostgressSQL, Python and Tableau 
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="trainer.png" alt="Cycling dashboard" style="width: 300px; margin-right: 20px; border-radius: 6px;"/>
+  <div style="flex: 1;">
+    <h3><a href="https://github.com/drapertoby/bicycle-noodling">Bicycle Noodling</a></h3>
+    <p>Exploratory `.fit` ride data analysis using Python, pandas, PostgreSQL, and Tableau. Focused on training load, route patterns, and performance metrics.</p>
+  </div>
+</div>
 - [LSE Assignment #1](lse-assignment-1.md): Used Excel, PostgreSQL, and Tableau to analyse retail marketing data and show how social media campaigns and discount strategies drive customer return and revenue. Visualised key relationships to support actionable insights.
 - [LSE Assignment #2](lse-assignment-2.md): Describe NHS Data project here
