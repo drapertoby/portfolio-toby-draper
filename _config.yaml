@@ -1,4 +1,4 @@
 title: "Toby Draper's Portfolio"
 masthead_title: " "
 description: "Showcase for data assignments and personal projects"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
