@@ -10,8 +10,7 @@ permalink: /bicycle-noodling/
   </p>
 </div>
 
-## Files and Visuals
+## Files
 
 - [Notebook: FIT file transform](assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
-- [Workout CSV](assets/projects/bicycle-noodling/workout.csv)
-- ![Ride map](assets/projects/bicycle-noodling/ride-map.png)
+- [Workout CSV](assets/projects/bicycle-noodling/aerobic_recovery.csv)
