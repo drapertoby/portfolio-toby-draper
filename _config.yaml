@@ -3,7 +3,8 @@ plugins:
 title: "Toby Draper's Portfolio"
 masthead_title: " "
 description: "Showcase for data assignments and personal projects"
-remote_theme: "toby-draper/toby-draper-mm"
+# remote_theme: "toby-draper/toby-draper-mm"
+theme: null
 
 # Trigger rebuild
 # Trigger rebuild to pull latest theme
