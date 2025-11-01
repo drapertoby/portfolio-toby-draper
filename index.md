@@ -13,7 +13,7 @@ title: "Home"
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
   <img src="images/trainer.png" alt="Bike trainer" style="width: 300px; margin-right: 20px; border-radius: 6px;"/>
   <div style="flex: 1;">
-    <h3><a href="https://github.com/drapertoby/bicycle-noodling">Bicycle Noodling</a></h3>
+    <h3><a href="/bicycle-noodling/">Bicycle Noodling</a></h3>
     <p>Exploring cycling training data using PostgressSQL, Python and Tableau.</p>
   </div>
 </div>
