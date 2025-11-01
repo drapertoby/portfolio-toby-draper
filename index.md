@@ -24,3 +24,10 @@ It includes assignments from the Career Accelerator with the London School of Ec
   </div>
 </div>
 - [LSE Assignment #2](lse-assignment-2.md): Describe NHS Data project here
+
+<div style="text-align: center; font-size: 0.95rem; color: #555;">
+  <p>Contact: <a href="mailto:drapertoby@gmail.com">drapertoby@gmail.com</a></p>
+  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" style="width: 24px; vertical-align: middle; margin-top: 0.5rem;">
+  </a>
+</div>
