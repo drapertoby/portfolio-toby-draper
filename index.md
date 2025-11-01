@@ -1,5 +1,6 @@
 Welcome to my showcase of data assignments and personal projects.  
-This site highlights hands-on analytics work, technical documentation, and exploratory data visualisations.
+This site highlights hands-on analytics work, technical documentation and exploratory data visualisations.  
+It includes assignments from the Career Accelerator with the London School of Economics and Political Science alongside personal projects.
 
 ## Projects
 
