@@ -17,3 +17,9 @@ permalink: /bicycle-noodling/
 
 - [Notebook: FIT file transform](/portfolio-toby-draper/assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
 - [Workout CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery.csv)
+
+---
+
+<p style="margin-top: 2rem;">
+  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
+</p>
