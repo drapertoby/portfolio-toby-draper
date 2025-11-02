@@ -4,12 +4,19 @@ layout: default
 permalink: /bicycle-noodling/
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
-  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-    I have taken some .fit files from TrainerRoad workouts completed over a period of twenty months I will explore these and create visualisations using Python, PostgreSQL and Tableau.
-  </p>
-</div>
+<table style="width: 100%; margin-bottom: 2rem;">
+  <tr>
+    <td style="width: 120px; padding-right: 1rem; vertical-align: top;">
+      <img src="images/bikes.jpg" alt="My beautiful bike" style="width: 100px; border-radius: 50%; border: 1px solid #ddd;" />
+    </td>
+    <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
+      <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
+      <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+       I have taken some .fit files from TrainerRoad workouts completed over a period of twenty months I will explore these and create visualisations using Python, PostgreSQL and Tableau.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
