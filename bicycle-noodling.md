@@ -13,6 +13,22 @@ permalink: /bicycle-noodling/
 
 ---
 
+## Background
+
+<table style="width: 100%; margin-bottom: 2rem;">
+  <tr>
+    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
+      <img src="/portfolio-toby-draper/images/power-zones.png" alt="Intro" style="width: 100%; border-radius: 6px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 1rem;">
+      <a href="/portfolio-toby-draper/background/"><strong>Terminology explained</strong></a><br>
+      What is a .fit file? What is FTP? All these questions answered and more, for those of us who are not obsessed about riding bicycles faster.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Noodling
 
 <table style="width: 100%; margin-bottom: 2rem;">
