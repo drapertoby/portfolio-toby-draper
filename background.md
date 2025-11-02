@@ -5,7 +5,7 @@ permalink: /background/
 ---
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">project Background</h2>
+  <h2 style="margin-top: 0; font-size: 1.5rem;">Project Background</h2>
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
     An overview of the tools used by athletes to track their activities and monitor fitness as well as associated concepts, components and jargon.
   </p>
