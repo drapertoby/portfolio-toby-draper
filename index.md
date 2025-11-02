@@ -17,7 +17,7 @@ title: "Home"
   </tr>
 </table>
 
-## Projects
+## My projects
 
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
@@ -26,7 +26,7 @@ title: "Home"
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-      I have taken some .fit files from TrainerRoad workouts completed historically. I will explore these and create visualisations using Python, PostgreSQL and Tableau.
+      I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
     </td>
   </tr>
 </table>
