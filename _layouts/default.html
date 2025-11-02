@@ -8,6 +8,28 @@
  <meta name="viewport"
    contents="width=device-width,
    initial-scale=1.0">
+<style>
+/* Mobile Emergency Fix */
+@media (max-width: 768px) {
+  .container, .wrapper, .page-content { 
+    width: 100% !important; 
+    max-width: 100% !important; 
+    padding: 15px !important; 
+    margin: 0 !important; 
+  }
+  
+  body { 
+    font-size: 16px; 
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+  }
+  
+  p, h1, h2, h3, h4, h5, h6, li, div {
+    word-break: normal !important;
+    max-width: 100% !important;
+  }
+}
+</style>
   </head>
   <body>
     <main class="page-content" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
