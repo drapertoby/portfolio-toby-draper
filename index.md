@@ -9,9 +9,9 @@ title: "Home"
       <img src="images/toby.png" alt="Toby Draper headshot" style="width: 100px; border-radius: 50%; border: 1px solid #ddd;" />
     </td>
     <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
-      <h2 style="margin-top: 0; font-size: 1.5rem;">Welcome to my showcase of data assignments and personal projects.</h2>
+      <h2 style="margin-top: 0; font-size: 1.5rem;">My name is Toby Draper - Welcome to my portfolio.</h2>
       <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-        This site features work from the Career Accelerator with the London School of Economics and Political Science, where I’m currently enrolled, alongside independent explorations in analytics, documentation, and data visualisation.
+        I am a storyteller who uses data to solve business problems through compelling, evidence-based narratives. This site is a showcase of the technical skills I am acquiring to support that work. It includes projects from the Career Accelerator programme with the London School of Economics and Political Science, where I am currently enrolled. It also features independent, personal projects that transform, explore and visualise data from sources that interest me.
       </p>
     </td>
   </tr>
