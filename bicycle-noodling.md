@@ -13,10 +13,19 @@ permalink: /bicycle-noodling/
 
 ---
 
-## Files
+## Noodling
 
-- [Notebook: FIT file transform](/portfolio-toby-draper/assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
-- [Workout CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery.csv)
+<table style="width: 100%; margin-bottom: 2rem;">
+  <tr>
+    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
+      <img src="images/noodle_1.png" alt="Aerobic Recovery" style="width: 100%; border-radius: 6px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 1rem;">
+      <a href="/portfolio-toby-draper/noodle_1/"><strong>Transform Phase</strong></a><br>
+      I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python.
+    </td>
+  </tr>
+</table>
 
 ---
 
