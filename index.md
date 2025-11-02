@@ -9,7 +9,7 @@ title: "Home"
       <img src="images/toby.png" alt="Toby Draper headshot" style="height: 100%; border-radius: 50%; border: 1px solid #ddd;" />
     </td>
     <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
-      <h2 style="margin-top: 0; font-size: 1.5rem;">My name is Toby Draper - Welcome to my portfolio.</h2>
+      <h2 style="margin-top: 0; font-size: 1.5rem;">My name is Toby Draper, welcome to my portfolio</h2>
       <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
         I am a storyteller who uses data to solve business problems through compelling, evidence-based narratives. This site is a showcase of the technical skills I am acquiring to support that work. It includes projects from the Career Accelerator programme with the London School of Economics and Political Science, where I am currently enrolled. It also features independent, personal projects that transform, explore and visualise data from sources that interest me.
       </p>
@@ -51,7 +51,7 @@ title: "Home"
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/"><strong>LSE Course 2 Assignment</strong></a><br>
-      Describe NHS Data project here.
+      The UK population is growing. NHS infrastructure will need investment to grow relative to demand and the organisation will need to make better use of its existing resources. This project explores available data to inform strategic decisions that shape capacity planning and optimise service delivery.
     </td>
   </tr>
 </table>
