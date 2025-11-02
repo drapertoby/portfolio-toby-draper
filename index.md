@@ -51,7 +51,7 @@ title: "Home"
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/"><strong>LSE Course 2 Assignment</strong></a><br>
-      The UK population is growing. NHS infrastructure will need investment to grow relative to demand and the organisation will need to make better use of its existing resources. This project explores available data to inform strategic decisions that shape capacity planning and optimise service delivery.
+      The UK population is growing. NHS infrastructure will need investment to grow relative to demand and the organisation will need to make better use of its existing resources. This project explored NHS data using Python to produce visualisations designed tp inform strategic decisions that shape capacity planning and optimise service delivery.
     </td>
   </tr>
 </table>
