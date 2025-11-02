@@ -30,19 +30,19 @@ title: "Home"
     </td>
   </tr>
 </table>
-
+<!-- incomplete projects direct to homepage. urls to be changed when pages built -->
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
       <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/lse-assignment-1/"><strong>LSE Course 1 Assignment</strong></a><br>
+      <a href="/portfolio-toby-draper/"><strong>LSE Course 1 Assignment</strong></a><br>
      I analysed retail marketing data using MS Excel, PostgreSQL and Tableau, demonstrating how social media campaigns and discount strategies encourage customers to return and drive increased revenue. I visualised key relationships and delivered actionable insights and recommendations.
     </td>
   </tr>
 </table>
-
+<!-- incomplete projects direct to homepage. urls to be changed when pages built -->
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
@@ -50,7 +50,7 @@ title: "Home"
       <img src="images/Assignment2_placeholder.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/lse-assignment-2/"><strong>LSE Assignment #2</strong></a><br>
+      <a href="/portfolio-toby-draper/"><strong>LSE Assignment #2</strong></a><br>
       Describe NHS Data project here.
     </td>
   </tr>
