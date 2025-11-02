@@ -9,46 +9,49 @@
    contents="width=device-width,
    initial-scale=1.0">
 <style>
-/* Mobile Emergency Fix */
-@media (max-width: 768px) {
-  body { 
-    font-size: 16px; 
-    -webkit-text-size-adjust: 100%;
-    overflow-x: hidden;
-    padding: 10px !important;
+/* Mobile Portrait Emergency Fix */
+@media (max-width: 480px) {
+  body, html {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden !important;
   }
   
-  .container, .wrapper, .page-content, main { 
-    width: 100% !important; 
-    max-width: 100% !important; 
-    padding: 15px !important; 
-    margin: 0 !important; 
+  .container, .wrapper, .page-content, main {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 10px !important;
     box-sizing: border-box;
   }
   
-  /* Target the main content area more aggressively */
-  .page-content .wrapper {
+  /* Nuclear option for content area */
+  div, section, article {
     max-width: 100% !important;
-    padding: 10px !important;
+    box-sizing: border-box;
   }
   
-  /* Fix text wrapping - prevent random breaks */
-  p, h1, h2, h3, h4, h5, h6, li, div {
+  /* Force natural text flow */
+  p, h1, h2, h3, h4, h5, h6, li {
+    width: 100% !important;
+    max-width: 100% !important;
     word-break: normal !important;
     overflow-wrap: normal !important;
-    hyphens: none !important;
-    max-width: 100% !important;
     white-space: normal !important;
+    line-height: 1.4 !important;
   }
-  
-  /* Specifically target your markdown content */
-  .language-plaintext, code, pre {
-    white-space: pre-wrap !important;
-    word-wrap: break-word !important;
-    max-width: 100% !important;
+}
+
+/* Keep your existing landscape fixes */
+@media (max-width: 768px) and (min-width: 481px) {
+  .container, .wrapper {
+    width: 100% !important;
+    padding: 15px !important;
   }
 }
 </style>
+
   </head>
   <body>
     <main class="page-content" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
