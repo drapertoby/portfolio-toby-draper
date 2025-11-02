@@ -7,7 +7,7 @@ permalink: /bicycle-noodling/
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 120px; padding-right: 1rem; vertical-align: top;">
-      <img src="/portfolio-toby-draper/images/bikes.jpg" alt="My beautiful bike" style="height: 160px; border-radius: 50%; border: 1px solid #ddd;" />
+     <img src="/portfolio-toby-draper/images/bikes.jpg" alt="My beautiful bike" style="height: 160px; width: 160px; border-radius: 50%; border: 1px solid #ddd;" />
     </td>
     <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
       <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
