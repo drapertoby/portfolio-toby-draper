@@ -47,10 +47,10 @@ title: "Home"
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
       <!-- Placeholder image for Assignment #2 -->
-      <img src="images/Assignment2_placeholder.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
+      <img src="images/lse_assignment_2.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/"><strong>LSE Assignment #2</strong></a><br>
+      <a href="/portfolio-toby-draper/"><strong>LSE Course 2 Assignment</strong></a><br>
       Describe NHS Data project here.
     </td>
   </tr>
