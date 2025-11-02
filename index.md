@@ -20,49 +20,53 @@ title: "Home"
 ## My projects
 
 <table style="width: 100%; table-layout: fixed; border-spacing: 2rem 2rem;">
+  <!-- Row 1 -->
   <tr>
-    <!-- Column 1 -->
+    <!-- Bicycle Noodling Image -->
     <td style="width: 25%; vertical-align: top;">
-      <div style="border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-        <img src="images/trainer.png" alt="Bike trainer" style="width: 100%; border-radius: 6px;" />
-        <div style="padding-top: 0.5rem;">
-          <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-          I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
-        </div>
-      </div>
+      <img src="images/trainer.png" alt="Bike trainer" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" />
     </td>
 
-    <!-- Column 2 -->
+    <!-- Bicycle Noodling Text -->
     <td style="width: 25%; vertical-align: top;">
-      <div style="border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-        <img src="images/Assignment2_placeholder.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
-        <div style="padding-top: 0.5rem;">
-          <a href="/portfolio-toby-draper/lse-assignment-2/"><strong>LSE Assignment #2</strong></a><br>
-          Describe NHS Data project here.
-        </div>
-      </div>
+      <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
+      I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
     </td>
 
-    <!-- Column 3 -->
+    <!-- LSE Assignment 1 Image -->
     <td style="width: 25%; vertical-align: top;">
-      <div style="border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-        <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 100%; border-radius: 6px;" />
-        <div style="padding-top: 0.5rem;">
-          <a href="/portfolio-toby-draper/lse-assignment-1/"><strong>LSE Course 1 Assignment</strong></a><br>
-          I analysed retail marketing data using MS Excel, PostgreSQL and Tableau, demonstrating how social media campaigns and discount strategies encourage customers to return and drive increased revenue. I visualised key relationships and delivered actionable insights and recommendations.
-        </div>
-      </div>
+      <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" />
     </td>
 
-    <!-- Column 4 -->
+    <!-- LSE Assignment 1 Text -->
     <td style="width: 25%; vertical-align: top;">
-      <div style="border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-        <img src="images/Assignment3_placeholder.png" alt="Assignment 3" style="width: 100%; border-radius: 6px;" />
-        <div style="padding-top: 0.5rem;">
-          <a href="/portfolio-toby-draper/lse-assignment-3/"><strong>LSE Assignment #3</strong></a><br>
-          Placeholder for future assignment description.
-        </div>
-      </div>
+      <a href="/portfolio-toby-draper/lse-assignment-1/"><strong>LSE Course 1 Assignment</strong></a><br>
+      I analysed retail marketing data using MS Excel, PostgreSQL and Tableau, demonstrating how social media campaigns and discount strategies encourage customers to return and drive increased revenue. I visualised key relationships and delivered actionable insights and recommendations.
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <!-- LSE Assignment 2 Image -->
+    <td style="width: 25%; vertical-align: top;">
+      <img src="images/Assignment2_placeholder.png" alt="Assignment 2" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" />
+    </td>
+
+    <!-- LSE Assignment 2 Text -->
+    <td style="width: 25%; vertical-align: top;">
+      <a href="/portfolio-toby-draper/lse-assignment-2/"><strong>LSE Assignment #2</strong></a><br>
+      Describe NHS Data project here.
+    </td>
+
+    <!-- LSE Assignment 3 Image -->
+    <td style="width: 25%; vertical-align: top;">
+      <img src="images/Assignment3_placeholder.png" alt="Assignment 3" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" />
+    </td>
+
+    <!-- LSE Assignment 3 Text -->
+    <td style="width: 25%; vertical-align: top;">
+      <a href="/portfolio-toby-draper/lse-assignment-3/"><strong>LSE Assignment #3</strong></a><br>
+      Placeholder for future assignment description.
     </td>
   </tr>
 </table>
