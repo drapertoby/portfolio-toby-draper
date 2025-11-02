@@ -12,7 +12,7 @@ permalink: /bicycle-noodling/
     <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
       <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
       <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-       I have taken some .fit files from TrainerRoad workouts completed over a period of twenty months I will explore these and create visualisations using Python, PostgreSQL and Tableau.
+      I’ve collected .fit files from TrainerRoad workouts completed over a twenty-month period. Through a multi-step process, I’ll explore the data and create visualisations using Python, PostgreSQL, and Tableau.
       </p>
     </td>
   </tr>
