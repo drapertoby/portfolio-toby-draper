@@ -18,7 +18,7 @@ permalink: /bicycle-noodling/
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="images/noodle_1.png" alt="Aerobic Recovery" style="width: 100%; border-radius: 6px;" />
+      <img src="/portfolio-toby-draper/images/noodle_1.png" alt="Aerobic Recovery" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/noodle_1/"><strong>Transform Phase</strong></a><br>
