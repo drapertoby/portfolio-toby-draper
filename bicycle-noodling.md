@@ -7,7 +7,7 @@ permalink: /bicycle-noodling/
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-    I have taken some .fit files from TrainerRoad workouts completed historically. I will explore these and create visualisations using Python, PostgreSQL and Tableau.
+    I have taken some .fit files from TrainerRoad workouts completed over a period of twenty months I will explore these and create visualisations using Python, PostgreSQL and Tableau.
   </p>
 </div>
 
@@ -37,8 +37,8 @@ permalink: /bicycle-noodling/
       <img src="/portfolio-toby-draper/images/noodle_1.png" alt="Aerobic Recovery" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/noodle_1/"><strong>Transform Phase</strong></a><br>
-      I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python.
+      <a href="/portfolio-toby-draper/noodle_1/"><strong>1. Transform phase</strong></a><br>
+      Working with six .fit files downloaded from the TrainerRoad application, I use the fitparse library to extract the raw data. Each file is cleaned, validated, and transformed into a structured Pandas DataFrame. The result is a single .csv file             containing all six activities, ready for use in future analysis.
     </td>
   </tr>
 </table>
