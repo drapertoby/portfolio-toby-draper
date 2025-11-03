@@ -14,15 +14,19 @@ permalink: /c1_submission/
     <u>Brief</u><br><br>
     You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.<br><br>
 
-    In particular, 2Market wants to understand:<br><br>
-    - The demographics of their customers<br>
-    - Which advertising channels seem to be the most effective<br>
-    - Which products seem to sell the best and if that varies based on demographic<br><br>
+    In particular, 2Market wants to understand:
+    <ul style="margin-left: 1rem;">
+      <li>The demographics of their customers</li>
+      <li>Which advertising channels seem to be the most effective</li>
+      <li>Which products seem to sell the best and if that varies based on demographic</li>
+    </ul>
 
-    To support 2Market, you’ll:<br><br>
-    - Complete your analysis and create a dashboard: You’ll analyse data and create a dashboard that includes key metrics to inform decision-making (such as the average revenue from each marketing channel.)<br>
-    - Complete a report: You’ll write a report explaining your approach and any insights discovered.<br>
-    - Complete your presentation: You’ll communicate insights to stakeholders in a recorded presentation.<br><br>
+    To support 2Market, you’ll:
+    <ul style="margin-left: 1rem;">
+      <li>Complete your analysis and create a dashboard: You’ll analyse data and create a dashboard that includes key metrics to inform decision-making (such as the average revenue from each marketing channel.)</li>
+      <li>Complete a report: You’ll write a report explaining your approach and any insights discovered.</li>
+      <li>Complete your presentation: You’ll communicate insights to stakeholders in a recorded presentation.</li>
+    </ul>
 
     <u>Summary of Observations & Decisions</u><br><br>
     <ul style="margin-left: 1rem;">
@@ -39,19 +43,35 @@ permalink: /c1_submission/
     </ul>
 
   </div>
-
+</div>
 ---
 
 ## Files
 
 Submitted project files and Facilitator Feedback
 
-- [Notebook: FIT file transform](/portfolio-toby-draper/assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
-- [Workout CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery.csv)
-- [Readme: File details and usage notes](/portfolio-toby-draper/assets/projects/bicycle-noodling/readme.txt)
-
-
-
+<table style="width: 100%; margin-bottom: 2rem;">
+  <tr>
+    <td style="width: 120px; text-align: center;">
+      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Technical_Report.pdf">
+        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Technical Report PDF" style="width: 64px;"><br>
+        <span style="font-size: 0.9rem;">Technical Report</span>
+      </a>
+    </td>
+    <td style="width: 120px; text-align: center;">
+      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Dashboard.twbx">
+        <img src="/portfolio-toby-draper/icons/tableau_icon.png" alt="Tableau Dashboard" style="width: 64px;"><br>
+        <span style="font-size: 0.9rem;">Dashboard & Data</span>
+      </a>
+    </td>
+    <td style="width: 120px; text-align: center;">
+      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Course_1_Feedback.pdf">
+        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Facilitator Feedback PDF" style="width: 64px;"><br>
+        <span style="font-size: 0.9rem;">Facilitator Feedback</span>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <p style="margin-top: 2rem;">
