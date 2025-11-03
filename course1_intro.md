@@ -16,7 +16,7 @@ permalink: /course1_intro/
       <li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li>
       <li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li>
       <li>Tableau – Learning a very powerful visual analytics platform for the first time. I explored, analysed and shared data through interactive dashboards and charts as my learning curve steepened</li>
-      <li>PostgreSQL – I have supported applications in business with a SQL backend for many years and had a reasonable foundation. That said, this course really helped me to understand database architecture, query writing and best practice for the first time</li>
+      <li>PostgreSQL – I have supported applications in business with a SQL backend for many years and had a reasonable foundation. That said, this course helped me develop my understanding of database architecture, query writing and best practice.</li>
     </ol>
   </div>
 </td>
