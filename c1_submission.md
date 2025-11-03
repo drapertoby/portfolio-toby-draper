@@ -54,19 +54,19 @@ Submitted project files and Facilitator Feedback
   <tr>
     <td style="width: 120px; text-align: center;">
       <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Technical_Report.pdf">
-        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Technical Report PDF" style="width: 64px;"><br>
+        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Technical Report PDF" class="file-icon"><br>
         <span style="font-size: 0.9rem;">Technical Report</span>
       </a>
     </td>
     <td style="width: 120px; text-align: center;">
       <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Dashboard.twbx">
-        <img src="/portfolio-toby-draper/icons/tableau_icon.png" alt="Tableau Dashboard" style="width: 64px;"><br>
+        <img src="/portfolio-toby-draper/icons/tableau_icon.png" alt="Tableau Dashboard" class="file-icon"><br>
         <span style="font-size: 0.9rem;">Dashboard & Data</span>
       </a>
     </td>
     <td style="width: 120px; text-align: center;">
       <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Course_1_Feedback.pdf">
-        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Facilitator Feedback PDF" style="width: 64px;"><br>
+        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Facilitator Feedback PDF" class="file-icon"><br>
         <span style="font-size: 0.9rem;">Facilitator Feedback</span>
       </a>
     </td>
