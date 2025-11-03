@@ -30,7 +30,7 @@ permalink: /course1_intro/
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/image1.png" alt="Submission" style="width: 100%; border-radius: 6px;" />
+      <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/submission/"><strong>Submitted materials and feedback</strong></a><br>
