@@ -1,7 +1,7 @@
 ---
 title: Noodle 1 - Transforming .fit
 layout: default
-permalink: /noodle_1/
+permalink: /fit_1/
 ---
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
