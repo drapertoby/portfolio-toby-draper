@@ -7,7 +7,7 @@ permalink: /course1_intro/
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
    <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
+  <h2 style="margin-top: 0; font-size: 1.5rem;">LSE Course 1 Assignment</h2>
   <div style="font-size: 1.1rem; line-height: 1.6;">
     In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics.<br>
     Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge.<br><br>
