@@ -1,5 +1,5 @@
 ---
-title: LSE Assignment: Submitted for Assessment
+title: LSE Assignment Submitted for Assessment
 layout: default
 permalink: /c1_submission/
 ---
