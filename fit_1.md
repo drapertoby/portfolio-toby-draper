@@ -36,7 +36,6 @@ It is organised into three sections:
 <p>
 The raw data is stored in an optimised, compact binary format, which is why I used the fitparse library to parse and interpret the messages into a structured, readable format.
 </p>
-  </p>
 </div>
 
 
