@@ -37,7 +37,7 @@ title: "Home"
       <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/"><strong>LSE Course 1 Assignment</strong></a><br>
+      <a href="/portfolio-toby-draper/course1_intro/"><strong>LSE Course 1 Assignment</strong></a><br>
      I analysed retail marketing data using MS Excel, PostgreSQL and Tableau, demonstrating how social media campaigns and discount strategies encourage customers to return and drive increased revenue. I visualised key relationships and delivered actionable insights and recommendations.
     </td>
   </tr>
