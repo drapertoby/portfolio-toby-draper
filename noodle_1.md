@@ -16,8 +16,13 @@ permalink: /noodle_1/
 
 ## Files
 
+To follow along with this project, the following files are available for download:
+
 - [Notebook: FIT file transform](/portfolio-toby-draper/assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
 - [Workout CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery.csv)
+- [Readme: File details and usage notes](/portfolio-toby-draper/assets/projects/bicycle-noodling/readme.txt)
+
+
 
 ---
 
