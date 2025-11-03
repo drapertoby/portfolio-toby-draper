@@ -39,6 +39,7 @@ permalink: /c1_submission/
         </ul>
       </li>
       <li>Based on these observations, my recommendations were built around ceasing all discount on purchases unless it was linked to a social media campaign. I predicted that this would influence the shopping behaviour of all customers to adopt the habits of the spotlight subset customers</li>
+      <li>The assignment was intended to showcase skills in MS Excel, PostgreSQL and Tableau. All of my Excel and SQL exporation are described in the report and then reproduced using the dataset uploaded to Tableau to keep visualisations consistent</li>
       <li>The brief asks for a dashboard built in Tableau and for a recorded presentation to communicate insights. To simplify delivery, my "dashboard" is actually several dashboards that I click through in the manner of a PowerPoint presentation to tell my story</li>
     </ul>
 
