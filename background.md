@@ -37,7 +37,7 @@ permalink: /background/
       <img src="/portfolio-toby-draper/images/fit_image.png" alt="fit file overview" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/noodle_1/"><strong>The .fit file format</strong></a><br>
+      <a href="/portfolio-toby-draper/fit_1/"><strong>The .fit file format</strong></a><br>
       An overview of the source data format used in this project.
     </td>
   </tr>
