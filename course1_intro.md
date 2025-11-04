@@ -33,8 +33,8 @@ permalink: /course1_intro/
       <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted materials and feedback</strong></a><br>
-      My Tableau file and accompanying Technical Report as well as Facilitator feedback.
+      <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted project</strong></a><br>
+      My Tableau file, the accompanying technical report outlining my approach and post the post assessmment feedback document.
     </td>
   </tr>
 </table>
@@ -45,11 +45,11 @@ permalink: /course1_intro/
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
     <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/image2.png" alt="Iteration" style="width: 100%; border-radius: 6px;" />
+      <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/noodle_1/"><strong>Changes to my dashboard based on feedback received</strong></a><br>
-      Taking on board feedback from the Course Facilitator, I produced a revised version of my dashboard in Tableau.
+      <a href="/portfolio-toby-draper/noodle_1/"><strong>Dashboard v2</strong></a><br>
+      I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.
     </td>
   </tr>
 </table>
