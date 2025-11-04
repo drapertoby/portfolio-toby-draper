@@ -34,7 +34,7 @@ permalink: /course1_intro/
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted project</strong></a><br>
-      My Tableau file, the accompanying technical report outlining my approach and post the post assessmment feedback document.
+      My Tableau file, the accompanying technical report outlining my approach and post assessmment feedback.
     </td>
   </tr>
 </table>
