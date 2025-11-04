@@ -26,7 +26,7 @@ title: "Home"
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-      I downloaded .fit files from the same TrainerRoad workout completed between December 2023 and July 2025, during a period of fluctuating fitness levels. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
+      I downloaded .fit files, the format output from cycling and exercises apps and sensors. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
     </td>
   </tr>
 </table>
@@ -37,8 +37,8 @@ title: "Home"
       <img src="images/Assignment2_home.png" alt="Assignment 1" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/course1_intro/"><strong>LSE Course 1 Assignment</strong></a><br>
-     I analysed retail marketing data using MS Excel, PostgreSQL and Tableau, demonstrating how social media campaigns and discount strategies encourage customers to return and drive increased revenue. I visualised key relationships and delivered actionable insights and recommendations.
+      <a href="/portfolio-toby-draper/course1_intro/"><strong>Retail Marketing Data Analysis</strong></a><br>
+     In the first LSE Career Accelerator Assignment, I analysed two data sets using MS Excel, PostgreSQL and Tableau, visualising key relationships and delivering actionable insights and recommendations.
     </td>
   </tr>
 </table>
@@ -50,8 +50,8 @@ title: "Home"
       <img src="images/lse_assignment_2.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/"><strong>LSE Course 2 Assignment</strong></a><br>
-      The UK population is growing. NHS infrastructure will need investment to grow relative to demand and the organisation will need to make better use of its existing resources. This project explored NHS data using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.
+      <a href="/portfolio-toby-draper/"><strong>National Heanth Service Data Analysis</strong></a><br>
+      In the second LSE Career Accelerator Assignment, I explored four data sets using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.
     </td>
   </tr>
 </table>
