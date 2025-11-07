@@ -50,7 +50,7 @@ title: "Home"
       <img src="images/lse_assignment_2.png" alt="Assignment 2" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/"><strong>National Heanth Service Data Analysis</strong></a><br>
+      <a href="/portfolio-toby-draper/"><strong>National Health Service Data Analysis</strong></a><br>
       In the second LSE Career Accelerator Assignment, I explored four data sets using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.
     </td>
   </tr>
