@@ -50,6 +50,18 @@ permalink: /bicycle-noodling/
   </tr>
 </table>
 
+<table style="width: 100%; margin-bottom: 2rem;">
+  <tr>
+    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
+      <img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Chart" style="width: 100%; border-radius: 6px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 1rem;">
+      <a href="/portfolio-toby-draper/noodle_2/"><strong>2. Wrangle & Visualise</strong></a><br>
+      The original dataset created in phase 1 needed a few changes to make it easier to work with. I also added data which was not contained in the original .fit file to aid fitness tracking in visualisations. And to test my work, I created the first           basic visualisation of this project using the Seaborn and Matplotlib libraries.
+    </td>
+  </tr>
+</table>
+
 ---
 
 <p style="margin-top: 2rem;">
