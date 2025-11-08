@@ -17,7 +17,7 @@ permalink: /noodle_2/
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
    I was very happy with the first visualisation. Across six sessions Average Power increased and FTP improved. Average Heart Rate dropped too. Fitness improved — higher intensity required less effort, shown by the lower heart rate.
    Another reason I like it is the imperfections. There is no indication of when the activities were completed. They were spread infrequently over twenty months, but the chart makes it look like they happened at regular intervals.
-   My plan is to adjust this as part of the next phase where I will experement with the data set in Tableau.
+   My plan is to adjust this as part of the next phase where I will experiment with the data set in Tableau.
   </p>
 </div>
 
