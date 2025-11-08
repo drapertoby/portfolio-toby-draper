@@ -11,7 +11,7 @@ permalink: /noodle_2/
   </p>
 </div>
 
-<img src="/assets/images/bn_2_chart.png" alt="First Visualisation" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
+<img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Visualisation" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
 
 ---
 
@@ -19,9 +19,8 @@ permalink: /noodle_2/
 
 To follow along with this project, the following files are available for download:
 
-- [Notebook: Visualisation logic](/portfolio-toby-draper/assets/projects/bicycle-noodling/2_visualisation_notebook.ipynb)
-- [Session Metrics CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/session_metrics.csv)
-- [Readme: Chart details and usage notes](/portfolio-toby-draper/assets/projects/bicycle-noodling/readme_visualisation.txt)
+- [Notebook: All the code for this step](/portfolio-toby-draper/assets/projects/bicycle-noodling/amend_df_and_visualise.ipynb)
+- [Amended CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery_v2.csv)
 
 ---
 
