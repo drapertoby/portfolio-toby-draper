@@ -1,5 +1,5 @@
 ---
-title: Noodle 2 - Visualising Progress
+title: Noodle 2 - Wrangle & Visualise
 layout: default
 permalink: /noodle_2/
 ---
@@ -7,11 +7,11 @@ permalink: /noodle_2/
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin-top: 0; font-size: 1.5rem;">Noodle 2 - Visualising Progress</h2>
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-   Stage 2 focuses on visualising the metrics derived from the transformed workout data. By plotting cadence, heart rate, power, and FTP across sessions, I can track how my fitness evolved over time. This step highlights the value of clean data and clear visuals in communicating performance trends.
+   Previously a new dataset had been created from the six original files in the .fit format and I immediately identified some changes that would make that data set easier to work with. I created a 'nmame' column and devised a new naming convention that would be easier to type when writing code. I mapped     the contents of the new 'name' columnn using a function based on the contents of the 'session column'. Next I added a column named 'ftp', obtained my finctional threshold power externally for the time that each session was recorded and created a dictionary containing the values. The values in the         dictionary were mapped to the new 'ftp' column. Then, because I wanted to see the results of my work to this point, I created the first visualisation for this project using the Seaborn and Matplotlib libraries.
   </p>
 </div>
 
-<img src="/assets/images/placeholder_chart.png" alt="Placeholder chart showing fitness metrics" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
+<img src="/assets/images/bn_2_chart.png" alt="First Visualisation" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
 
 ---
 
