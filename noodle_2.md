@@ -13,6 +13,14 @@ permalink: /noodle_2/
 
 <img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Visualisation" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
 
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
+  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+   I was very happy with the first visualisation. Across six sessions Average Power increased and FTP improved. Average Heart Rate dropped too. Fitness improved — higher intensity required less effort, shown by the lower heart rate.
+   Another reason I like it is the imperfections. There is no indication of when the activities were completed. They were spread infrequently over twenty months, but the chart makes it look like they happened at regular intervals.
+   My plan is to adjust this as part of the next phase where I will experement with the data set in Tableau.
+  </p>
+</div>
+
 ---
 
 ## Files
