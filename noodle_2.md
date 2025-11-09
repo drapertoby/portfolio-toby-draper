@@ -7,7 +7,7 @@ permalink: /noodle_2/
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin-top: 0; font-size: 1.5rem;">Noodle 2 - Visualising Progress</h2>
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-   Previously a new dataset had been created from the six original files in the .fit format and I immediately identified some changes that would make that data set easier to work with. I created a 'nmame' column and devised a new naming convention that would be easier to type when writing code. I mapped     the contents of the new 'name' columnn using a function based on the contents of the 'session column'. Next I added a column named 'ftp', obtained my finctional threshold power externally for the time that each session was recorded and created a dictionary containing the values. The values in the         dictionary were mapped to the new 'ftp' column. Then, because I wanted to see the results of my work to this point, I created the first visualisation for this project using the Seaborn and Matplotlib libraries.
+   After Bike Noodle 1 I made the dataset easier to work with by adding a 'name' column, mapped using a custom function based on values in 'session' to create a more code-friendly naming convention. I added an ftp column using a dictionary, taking FTP values from my TrainerRoad profile and used map() to populate it. To see my progress I built a basic visualisation using Seaborn and Matplotlib.
   </p>
 </div>
 
@@ -15,9 +15,7 @@ permalink: /noodle_2/
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-   I was very happy with the first visualisation. Across six sessions Average Power increased and FTP improved. Average Heart Rate dropped too. Fitness improved — higher intensity required less effort, shown by the lower heart rate.
-   Another reason I like it is the imperfections. There is no indication of when the activities were completed. They were spread infrequently over twenty months, but the chart makes it look like they happened at regular intervals.
-   My plan is to adjust this as part of the next phase where I will experiment with the data set in Tableau.
+   I was pleased with this visualisation — Average Power increases relative to FTP, while Average Heart Rate drops. That’s what improving fitness looks like: higher intensity, less effort. I also like its imperfections, which sparked ideas for further       noodling. For example time isn’t relative here, the chart implies regular intervals but sessions were spread unevenly over twenty months. I plan to address this in the next phase and experiment with the dataset in Tableau.
   </p>
 </div>
 
