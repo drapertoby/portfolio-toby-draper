@@ -8,7 +8,7 @@ permalink: /c1_iteration/
   <h2 style="margin-top: 0; font-size: 1.5rem;">Revised Dashboard</h2>
   <div style="font-size: 1.1rem; line-height: 1.6;">
 
-    <u>Summary of Changes</u><br><br>
+    <u>Summary of changes</u><br><br>
     <ul style="margin-left: 1rem;">
       <li>State key questions and framework earlier: open the presentation with the specific business questions you’ll answer and explicitly mention the problem-solving framework (do this before maps/visuals). </li>
       <li>Rethink the map: with few countries, consider a different chart type (bar or dot plot) and add relative metrics (per-capita or per-customer) alongside absolutes to account for volume differences. </li>
@@ -21,6 +21,8 @@ permalink: /c1_iteration/
 
   </div>
 </div>
+
+<img src="/portfolio-toby-draper/images/new_dboard.png" alt="New Dashboard" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
 ---
 
 ## Files
