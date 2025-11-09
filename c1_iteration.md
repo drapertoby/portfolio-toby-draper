@@ -27,7 +27,7 @@ permalink: /c1_iteration/
 
 ## Files
 
-Tableaux Dashboard Containing my changes
+Dashboard V2
 
 - [New Tableau Dashboard (.twbx)](/portfolio-toby-draper/assets/projects/lse_project_1/three market 2 dash.twbx)
 
