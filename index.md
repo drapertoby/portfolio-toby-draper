@@ -3,19 +3,18 @@ layout: default
 title: "Home"
 ---
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr style="height: 100%;">
-    <td style="width: 120px; padding-right: 1rem; vertical-align: top;">
-      <img src="images/toby.png" alt="Toby Draper headshot" style="height: 100%; width: auto; border-radius: 0; border: none;" />
-    </td>
-    <td style="background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
-      <h2 style="margin-top: 0; font-size: 1.5rem;">My name is Toby Draper, welcome to my portfolio</h2>
-      <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-        I am a storyteller who uses data to solve business problems through compelling, evidence-based narratives. This site is a showcase of the technical skills I am acquiring to support that work. It includes projects from the Career Accelerator programme with the London School of Economics and Political Science, where I am currently enrolled. It also features independent, personal projects that transform, explore and visualise data from sources that interest me.
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: stretch; margin-bottom: 2rem;">
+  <div style="flex: 0 0 120px; margin-right: 1rem; display: flex;">
+    <img src="images/toby.png" alt="Toby Draper headshot"
+         style="width: 100%; height: auto; object-fit: cover; border-radius: 0; border: none;" />
+  </div>
+  <div style="background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px; flex: 1;">
+    <h2 style="margin-top: 0; font-size: 1.5rem;">My name is Toby Draper, welcome to my portfolio</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+      I am a storyteller who uses data to solve business problems through compelling, evidence-based narratives. This site is a showcase of the technical skills I am acquiring to support that work. It includes projects from the Career Accelerator programme with the London School of Economics and Political Science, where I am currently enrolled. It also features independent, personal projects that transform, explore and visualise data from sources that interest me.
+    </p>
+  </div>
+</div>
 
 ## My projects
 
