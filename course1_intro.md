@@ -48,7 +48,7 @@ permalink: /course1_intro/
       <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" style="width: 100%; border-radius: 6px;" />
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
-      <a href="/portfolio-toby-draper/noodle_1/"><strong>Dashboard v2</strong></a><br>
+      <a href="/portfolio-toby-draper/c1_iteration/"><strong>Dashboard v2</strong></a><br>
       I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.
     </td>
   </tr>
