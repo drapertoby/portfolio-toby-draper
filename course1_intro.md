@@ -50,14 +50,3 @@ permalink: /portfolio-toby-draper/course1_intro/
     </div>
   </div>
 </div>
-
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
-</p>
-
-
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
-</p>
-
-<!----commit change---->
