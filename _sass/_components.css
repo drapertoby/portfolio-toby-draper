@@ -1,0 +1,86 @@
+// Card Components (for projects, etc.)
+.card {
+    background: rgba(21, 21, 43, 0.8);
+    border: 1px solid var(--border-glow);
+    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 30px rgba(0, 240, 255, 0.2);
+        border-color: var(--accent-1);
+    }
+}
+
+// Image Styling
+.image-container {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--border-glow);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    
+    img {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: transform 0.3s ease;
+    }
+    
+    &:hover img {
+        transform: scale(1.05);
+    }
+}
+
+// Buttons
+.btn {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: linear-gradient(45deg, var(--accent-2), var(--accent-3));
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px var(--border-glow);
+    }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+    .burger-menu {
+        display: flex;
+    }
+    
+    .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: var(--primary-bg);
+        flex-direction: column;
+        padding: 1rem;
+        border-top: 1px solid var(--border-glow);
+        
+        &.active {
+            display: flex;
+        }
+    }
+    
+    .container {
+        padding: 0 1rem;
+    }
+    
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.5rem; }
+}
