@@ -4,56 +4,57 @@ layout: default
 permalink: /portfolio-toby-draper/course1_intro/
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">LSE Course 1 Assignment</h2>
-  <div style="font-size: 1.1rem; line-height: 1.6;">
-    
+<div class="card">
+  <h2>LSE Course 1 Assignment</h2>
+  <div class="content">
     In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics.<br>
     Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge.<br><br>
     Summary of the course modules:<br><br>
-    <ul style="margin-left: 1rem;">
+    <ul>
       <li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li>
       <li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li>
       <li>Tableau – Learning a very powerful visual analytics platform for the first time. I explored, analysed and shared data through interactive dashboards and charts as my learning curve steepened</li>
       <li>PostgreSQL – I have supported applications in business with a SQL backend for many years and had a reasonable foundation. That said, this course helped me develop my understanding of database architecture, query writing and best practice.</li>
     </ul>
   </div>
- </div>
+</div>
 
 ---
 
 ## Submission
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" style="width: 100%; border-radius: 6px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 1rem;">
+<div class="card">
+  <div style="display: flex; align-items: start; gap: 2rem;">
+    <div class="image-container" style="flex: 0 0 300px;">
+      <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" />
+    </div>
+    <div>
       <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted project</strong></a><br>
-      My Tableau file, the accompanying technical report outlining my approach and post assessmment feedback.
-    </td>
-  </tr>
-</table>
+      My Tableau file, the accompanying technical report outlining my approach and post assessment feedback.
+    </div>
+  </div>
+</div>
 
 ---
 
 ## Iteration
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" style="width: 100%; border-radius: 6px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 1rem;">
+
+<div class="card">
+  <div style="display: flex; align-items: start; gap: 2rem;">
+    <div class="image-container" style="flex: 0 0 300px;">
+      <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" />
+    </div>
+    <div>
       <a href="/portfolio-toby-draper/c1_iteration/"><strong>Dashboard v2</strong></a><br>
       I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
----
+<p style="margin-top: 2rem;">
+  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
+</p>
 
-<!-- rebuild trigger -->
 
 <p style="margin-top: 2rem;">
   <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
