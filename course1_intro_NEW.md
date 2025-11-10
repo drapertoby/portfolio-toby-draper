@@ -1,7 +1,7 @@
 ---
 title: LSE Course 1 Assignment - Introduction
 layout: default
-permalink: /portfolio-toby-draper/course1_intro/
+permalink: /portfolio-toby-draper/course1_intro_NEW/
 ---
 
 <div class="card">
@@ -50,7 +50,3 @@ permalink: /portfolio-toby-draper/course1_intro/
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
 </div>
-
-<!--theme active test-->
-
-

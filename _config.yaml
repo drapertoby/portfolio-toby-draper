@@ -1,3 +1,23 @@
-title: "Toby Draper's Portfolio"
-description: "Showcase for data assignments and personal projects"
-theme: null
+title: "Toby Draper Portfolio"
+description: "Contemporary portfolio showcasing projects and skills"
+baseurl: "/portfolio-toby-draper"
+url: "https://drapertoby.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Include directories
+include:
+   - _includes
+
+# Custom variables
+color_scheme: futuristic
+author: "Toby Draper"
+
+# SASS configuration
+sass:
+  sass_dir: _sass
+  style: compressed
