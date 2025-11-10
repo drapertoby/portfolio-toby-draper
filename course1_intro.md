@@ -1,7 +1,7 @@
 ---
 title: LSE Course 1 Assignment - Introduction
 layout: default
-permalink: /course1_intro/
+permalink: /portfolio-toby-draper/course1_intro/
 ---
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
