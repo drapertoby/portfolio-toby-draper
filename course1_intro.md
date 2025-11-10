@@ -19,34 +19,35 @@ permalink: /portfolio-toby-draper/course1_intro/
   </div>
 </div>
 
----
-
 ## Submission
 
 <div class="card">
-  <div style="display: flex; align-items: start; gap: 2rem;">
-    <div class="image-container" style="flex: 0 0 300px;">
+  <div class="project-layout">
+    <div class="image-container">
       <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" />
     </div>
-    <div>
+    <div class="project-info">
       <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted project</strong></a><br>
       My Tableau file, the accompanying technical report outlining my approach and post assessment feedback.
     </div>
   </div>
 </div>
 
----
-
 ## Iteration
 
 <div class="card">
-  <div style="display: flex; align-items: start; gap: 2rem;">
-    <div class="image-container" style="flex: 0 0 300px;">
+  <div class="project-layout">
+    <div class="image-container">
       <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" />
     </div>
-    <div>
+    <div class="project-info">
       <a href="/portfolio-toby-draper/c1_iteration/"><strong>Dashboard v2</strong></a><br>
       I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.
     </div>
   </div>
 </div>
+
+<p style="margin-top: 2rem;">
+  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
+</p>
+
