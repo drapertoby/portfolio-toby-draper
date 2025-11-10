@@ -47,7 +47,8 @@ permalink: /portfolio-toby-draper/course1_intro/
   </div>
 </div>
 
-<p style="margin-top: 2rem;">
+<div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
-</p>
+</div>
+
 
