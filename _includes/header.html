@@ -1,0 +1,22 @@
+<header class="header">
+    <div class="container">
+        <div class="logo">
+            <a href="{{ '/' | relative_url }}">Toby Draper</a>
+        </div>
+        
+        <nav class="nav">
+            <button class="burger-menu" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            
+            <ul class="nav-links">
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+                <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
