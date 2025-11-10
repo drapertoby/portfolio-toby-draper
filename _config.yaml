@@ -9,6 +9,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Include directories
+include:
+   - _includes
+
 # Custom variables
 color_scheme: futuristic
 author: "Toby Draper"
