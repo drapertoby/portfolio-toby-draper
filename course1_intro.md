@@ -7,9 +7,10 @@ permalink: /course1_intro/
 <div class="card">
   <h2>LSE Course 1 Assignment</h2>
   <div class="content">
-    In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics.<br>
-    Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge.<br><br>
-    Summary of the course modules:<br><br>
+    <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics.</p>
+    <p>Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge.</p>
+    
+    <h3>Summary of the course modules:</h3>
     <ul>
       <li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li>
       <li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li>
@@ -51,6 +52,5 @@ permalink: /course1_intro/
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
 </div>
 
-<!--theme active test-->
 
 
