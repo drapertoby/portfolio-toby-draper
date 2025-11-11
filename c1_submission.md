@@ -4,10 +4,10 @@ layout: default
 permalink: /c1_submission/
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">Submission and Facilitator Feedback</h2>
+<div class="card">
+  <h1>Submission and Facilitator Feedback</h1>
 
-  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+ <div class="about-content">
     <u>Overview</u><br><br>
     Course 1 consisted of six modules, each one culminating with an Assignment Activity. Students could use these as a basis for their entire submission or ignore them and go their own way in order to meet the brief. The activities were a great starting point although as I became more familiar with the data set, patterns and relationships emerged and I found the confidence to explore them.<br><br>
 
@@ -30,6 +30,7 @@ permalink: /c1_submission/
     <li>The assignment was intended to showcase skills in MS Excel, PostgreSQL and Tableau. All of my Excel and SQL exporation are described in the report and then reproduced using the dataset uploaded to Tableau to keep visualisations consistent</li>
     <li>The brief asks for a dashboard built in Tableau and for a recorded presentation to communicate insights. To simplify delivery, my "dashboard" is actually several dashboards that I click through in the manner of a PowerPoint presentation to tell my story</li>
   </ul>
+</div>
 </div>
 ---
 
