@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: /portfolio-toby-draper/about/
+permalink: /about/
 ---
 
 <div class="card">
