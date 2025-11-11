@@ -17,7 +17,7 @@ permalink: /c1_submission/
     <u>Summary of Approach</u>
   </p>
 
-  <ul style="margin-left: 1rem;">
+  <ul style="margin-left: 1rem; font-size: 1.1rem; line-height: 1.6; color: inherit;">
     <li>Assignment Activity #1 directed us to report on the general demographics of customers (age, income, marital status etc). It also directed us to spotlight a subset of customers in a particular high income bracket</li>
     <li>I decided to apply further analysis of the subset of customers in the spotlight from Assignment Activity 1 and found they behaved in a manner that would be desirable for all customers to adopt
       <ul style="margin-left: 1rem;">
