@@ -15,7 +15,6 @@ permalink: /c1_submission/
     You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.<br><br>
 
     <u>Summary of Approach</u>
-  </p>
 
   <ul style="margin-left: 1rem; font-size: 1.1rem; line-height: 1.6; color: inherit;">
     <li>Assignment Activity #1 directed us to report on the general demographics of customers (age, income, marital status etc). It also directed us to spotlight a subset of customers in a particular high income bracket</li>
