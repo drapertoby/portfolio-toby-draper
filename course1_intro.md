@@ -23,8 +23,8 @@ permalink: /course1_intro/
 ## Submission
 
 <div class="card">
-  <div class="project-layout">
-    <div class="image-container">
+  <div style="display: flex; align-items: start; gap: 2rem;">
+    <div class="image-container" style="flex: 0 0 300px;">
       <img src="/portfolio-toby-draper/images/submission.png" alt="Submission" />
     </div>
     <div class="project-info">
@@ -35,10 +35,9 @@ permalink: /course1_intro/
 </div>
 
 ## Iteration
-
 <div class="card">
-  <div class="project-layout">
-    <div class="image-container">
+  <div style="display: flex; align-items: start; gap: 2rem;">
+    <div class="image-container" style="flex: 0 0 300px;">
       <img src="/portfolio-toby-draper/images/version2.png" alt="Iteration" />
     </div>
     <div class="project-info">
