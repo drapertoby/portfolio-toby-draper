@@ -115,13 +115,18 @@
   
   .headshot-container {
     flex: 0 0 120px;
+    
+    .headshot {
+      width: 100%;
+      max-width: 120px;
+      height: auto;
+    }
   }
   
   .profile-content {
     flex: 1;
   }
   
-  // Mobile fix
   @media (max-width: 768px) {
     flex-direction: column;
     text-align: center;
@@ -140,13 +145,18 @@
   
   .image-container {
     flex: 0 0 300px;
+    
+    img {
+      width: 100%;
+      height: auto;
+      max-width: 300px;
+    }
   }
   
   .project-info {
     flex: 1;
   }
   
-  // Mobile fix
   @media (max-width: 768px) {
     flex-direction: column;
     
