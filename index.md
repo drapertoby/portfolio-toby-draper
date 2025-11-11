@@ -17,7 +17,7 @@ title: "Home"
   </tr>
 </table>
 
-## My projects
+## Recent projects
 
 <table style="width: 100%; margin-bottom: 2rem;">
   <tr>
