@@ -4,66 +4,58 @@ layout: default
 permalink: /bicycle-noodling/
 ---
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 160px; padding-right: 1rem; vertical-align: top;">
-     <img src="/portfolio-toby-draper/images/bikes.jpg" alt="My beautiful bike" class="headshot">
-    </td>
-    <td style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; border-radius: 6px;">
-      <h2 style="margin-top: 0; font-size: 1.5rem;">Bicycle Noodling</h2>
-      <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-      I’ve collected .fit files from TrainerRoad workouts completed over a twenty-month period. Through a multi-step process, I’ll explore the data and create visualisations using Python, PostgreSQL, and Tableau.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/bikes.jpg" alt="My beautiful bike" />
+    </div>
+    <div class="project-info">
+      <h2>Bicycle Noodling</h2>
+      <p>I've collected .fit files from TrainerRoad workouts completed over a twenty-month period. Through a multi-step process, I'll explore the data and create visualisations using Python, PostgreSQL, and Tableau.</p>
+    </div>
+  </div>
+</div>
 
 ## Background
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/power-zones.png" alt="Intro" style="width: 100%; border-radius: 6px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 1rem;">
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/power-zones.png" alt="Intro" />
+    </div>
+    <div class="project-info">
       <a href="/portfolio-toby-draper/background/"><strong>Terminology explained</strong></a><br>
       What is a .fit file? What is FTP? All these questions answered and more, for those of us who are not obsessed about riding bicycles faster.
-    </td>
-  </tr>
-</table>
-
----
+    </div>
+  </div>
+</div>
 
 ## Noodling
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/noodle_1.png" alt="Aerobic Recovery" style="width: 100%; border-radius: 6px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 1rem;">
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/noodle_1.png" alt="Aerobic Recovery" />
+    </div>
+    <div class="project-info">
       <a href="/portfolio-toby-draper/noodle_1/"><strong>1. Transform phase</strong></a><br>
-      Working with six .fit files downloaded from the TrainerRoad application, I use the fitparse library to extract the raw data. Each file is cleaned, validated, and transformed into a structured Pandas DataFrame. The result is a single .csv file             containing all six activities, ready for use in future analysis.
-    </td>
-  </tr>
-</table>
+      Working with six .fit files downloaded from the TrainerRoad application, I use the fitparse library to extract the raw data. Each file is cleaned, validated, and transformed into a structured Pandas DataFrame. The result is a single .csv file containing all six activities, ready for use in future analysis.
+    </div>
+  </div>
+</div>
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 320px; border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem;">
-      <img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Chart" style="width: 100%; border-radius: 6px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 1rem;">
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Chart" />
+    </div>
+    <div class="project-info">
       <a href="/portfolio-toby-draper/noodle_2/"><strong>2. Wrangle & Visualise</strong></a><br>
-      The original dataset created in phase 1 needed a few changes to make it easier to work with. I also added data which was not contained in the original .fit file to aid fitness tracking in visualisations. And to test my work, I created the first           basic visualisation of this project using the Seaborn and Matplotlib libraries.
-    </td>
-  </tr>
-</table>
+      The original dataset created in phase 1 needed a few changes to make it easier to work with. I also added data which was not contained in the original .fit file to aid fitness tracking in visualisations. And to test my work, I created the first basic visualisation of this project using the Seaborn and Matplotlib libraries.
+    </div>
+  </div>
+</div>
 
----
-
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
-</p>
+<div class="back-home">
+  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
+</div>
