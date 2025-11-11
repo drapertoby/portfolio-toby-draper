@@ -50,7 +50,7 @@ title: "Home"
     </td>
     <td style="vertical-align: top; padding-left: 1rem;">
       <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-      I downloaded .fit files, the format output from cycling and exercise apps and sensors. I transformed the files into a readable format using Python, and will continue using Python, PostgreSQL and Tableau to analyse and visualise the data over time. This may reveal insights that are not visible in popular fitness applications in the marketplace, but is more likely to reinforce just how brilliant they are compared with the tools we use in business.
+      Cycling has been revolutionised by tech. I deep dive into my own performance metrics to surface insights the mainstream platforms miss. This is where my obsession with bikes meets a curiosity for transforming, understanding and visualising data.
     </td>
   </tr>
 </table>
