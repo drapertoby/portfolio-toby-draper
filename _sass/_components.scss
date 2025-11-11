@@ -148,8 +148,8 @@
     
     img {
       width: 100%;
+      max-width: 300px !important;
       height: auto;
-      max-width: 300px;
     }
   }
   
@@ -168,5 +168,6 @@
     }
   }
 }
+
 
 }
