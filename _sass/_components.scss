@@ -107,4 +107,56 @@
     .back-home {
   margin-top: 2rem;
 }
+// Home page specific styles
+.profile-layout {
+  display: flex;
+  align-items: start;
+  gap: 2rem;
+  
+  .headshot-container {
+    flex: 0 0 120px;
+  }
+  
+  .profile-content {
+    flex: 1;
+  }
+  
+  // Mobile fix
+  @media (max-width: 768px) {
+    flex-direction: column;
+    text-align: center;
+    
+    .headshot-container {
+      flex: 0 0 auto;
+      margin: 0 auto;
+    }
+  }
+}
+
+.project-layout {
+  display: flex;
+  align-items: start;
+  gap: 2rem;
+  
+  .image-container {
+    flex: 0 0 300px;
+  }
+  
+  .project-info {
+    flex: 1;
+  }
+  
+  // Mobile fix
+  @media (max-width: 768px) {
+    flex-direction: column;
+    
+    .image-container {
+      flex: 0 0 auto;
+      width: 100%;
+      max-width: 300px;
+      margin: 0 auto;
+    }
+  }
+}
+
 }
