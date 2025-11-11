@@ -11,7 +11,7 @@ permalink: /bicycle-noodling/
     </div>
     <div>
       <h2>Bicycle Noodling</h2>
-      <p>I've collected .fit files from TrainerRoad workouts completed over a twenty-month period. Through a multi-step process, I'll explore the data and create visualisations using Python, PostgreSQL, and Tableau.</p>
+      <p>I have built a large reserve of activity data from over ten years of tracking with platforms like Strava. In these projects, I transform .fit files into a readable format — turning raw metrics into a foundation for exploring patterns, spotting problems, and uncovering opportunities for further analysis.</p>
     </div>
   </div>
 </div>
