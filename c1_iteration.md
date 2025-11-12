@@ -22,7 +22,10 @@ permalink: /c1_iteration/
   </div>
 </div>
 
-<img src="/portfolio-toby-draper/images/new_dboard.png" alt="New Dashboard" style="display: block; margin: 2rem auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;">
+<div class="fullwidth-image">
+  <img src="/portfolio-toby-draper/images/your-tableau-dashboard.png" alt="Dashboard v2">
+</div>
+
 ---
 
 ## Files
