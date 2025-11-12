@@ -7,7 +7,7 @@ title: "Home"
 <div class="card">
   <div class="profile-layout">
     <div class="headshot-container">
-      <img src="images/toby.png" alt="Toby Draper headshot" class="headshot">
+      <img src="/portfolio-toby-draper/images/toby.png" alt="Toby Draper headshot" class="headshot">
     </div>
     <div class="profile-content">
       <h2>My name is Toby Draper, welcome to my portfolio</h2>
@@ -21,7 +21,7 @@ title: "Home"
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
-      <img src="images/Assignment2_home.png" alt="Assignment 1" />
+      <img src="/portfolio-toby-draper/images/Assignment2_home.png" alt="Assignment 1" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/course1_intro/"><strong>Retail Marketing Data Analysis</strong></a><br>
@@ -33,7 +33,7 @@ title: "Home"
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
-      <img src="images/lse_assignment_2.png" alt="Assignment 2" />
+      <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/"><strong>National Health Service Data Analysis</strong></a><br>
@@ -45,7 +45,7 @@ title: "Home"
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
-      <img src="images/trainer.png" alt="Bike trainer" />
+      <img src="/portfolio-toby-draper/images/trainer.png" alt="Bike trainer" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
