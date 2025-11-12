@@ -27,30 +27,19 @@ Based on these insights, I recommended reducing untargeted discounts, incentivis
 
 ## Files
 
-Submitted project files and Facilitator Feedback
+<p>Submitted project files and Facilitator Feedback</p>
 
-<table style="width: 100%; margin-bottom: 2rem;">
-  <tr>
-    <td style="width: 120px; text-align: center;">
-      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Technical_Report.pdf">
-        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Technical Report PDF" class="file-icon"><br>
-        <span style="font-size: 0.9rem;">Technical Report</span>
-      </a>
-    </td>
-    <td style="width: 120px; text-align: center;">
-      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Dashboard.twbx">
-        <img src="/portfolio-toby-draper/icons/tableau_icon.png" alt="Tableau Dashboard" class="file-icon"><br>
-        <span style="font-size: 0.9rem;">Dashboard & Data</span>
-      </a>
-    </td>
-    <td style="width: 120px; text-align: center;">
-      <a href="/portfolio-toby-draper/assets/projects/lse_project_1/Course_1_Feedback.pdf">
-        <img src="/portfolio-toby-draper/icons/pdf_icon.png" alt="Facilitator Feedback PDF" class="file-icon"><br>
-        <span style="font-size: 0.9rem;">Facilitator Feedback</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<div class="file-grid">
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/images/tableau-icon.png" class="file-icon">
+    <div><a href="/portfolio-toby-draper/downloads/Technical_Report.pdf"><strong>Technical Report</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/images/pdf-icon.png" class="file-icon">
+    <div><a href="/portfolio-toby-draper/downloads/Workbook.twbx"><strong>Tableau Workbook</strong></a></div>
+  </div>
+</div>
+
 ---
 
 <div class="back-home">
