@@ -8,6 +8,7 @@ permalink: /c1_iteration/
   <h1>Revised Dashboard</h1>
   
   <div class="about-content">
+    <p>Taking on board the feedback I received from my Course Facilitator, I focused on the suggested improvements to my Tableau dashboard. The learning curve has been steep—getting to grips with the idiosyncrasies of Tableau has challenged me more than expected. My goal is to keep chipping away at improving my skills with this application until I feel confident creating visualisations that are both aesthetically clear and tailored to what stakeholders need to understand business problems and solve them effectively.</p>
     <u>Summary of changes</u><br><br>
     <ul style="margin-left: 1rem;">
       <li>State key questions and framework earlier: open the presentation with the specific business questions you’ll answer and explicitly mention the problem-solving framework (do this before maps/visuals). </li>
