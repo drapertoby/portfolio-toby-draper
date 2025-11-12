@@ -61,9 +61,9 @@ Submitted project files and Facilitator Feedback
 </table>
 ---
 
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/course1_intro/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to previous</a>
-</p>
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
-</p>
+<div class="back-home">
+  <a href="/course1_intro/" class="btn">← Back to Previous</a>
+</div>
+<div class="back-home">
+  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
+</div>
