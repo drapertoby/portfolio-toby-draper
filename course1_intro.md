@@ -7,15 +7,14 @@ permalink: /course1_intro/
 <div class="card">
   <h2>LSE Course 1 Assignment</h2>
   <div class="content">
-    <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics.</p>
-    <p>Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge.</p>
+    <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics. Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge. I went in confident about my abilities with MS Excel, with a reasonable basic foundation in SQL and I had used Tableau as a Viwer but not as a Creator.</p>
     
     <h3>Summary of the course modules:</h3>
     <ul>
-     <p><li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li></p>
-     <p><li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li></p>
-      <p><li>Tableau – Learning a very powerful visual analytics platform for the first time. I explored, analysed and shared data through interactive dashboards and charts as my learning curve steepened</li></p>
-      <p><li>PostgreSQL – I have supported applications in business with a SQL backend for many years and had a reasonable foundation. That said, this course helped me develop my understanding of database architecture, query writing and best practice.</li></p>
+     <li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li>
+     <li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li>
+      <li>Tableau – Learning a very powerful visual analytics platform for the first time. I explored, analysed and shared data through interactive dashboards and charts as my learning curve steepened</li>
+      <li>PostgreSQL – I have supported applications in business with a SQL backend for many years and had a reasonable foundation. That said, this course helped me develop my understanding of database architecture, query writing and best practice.</li>
     </ul>
   </div>
 </div>
