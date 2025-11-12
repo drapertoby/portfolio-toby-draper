@@ -8,10 +8,10 @@ permalink: /c1_submission/
   <h1>Submission and Facilitator Feedback</h1>
 
  <div class="about-content">
-        <u>Brief</u>
+        <h2>Brief</h2>
     <p>You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.</p>
 
-    <u>Summary of Approach</u>
+    <h2>Summary of Approach</h2>
 
 <p>The project involved analysing customer demographics and comparing general patterns with those of a high-income group. I extended this by examining behavioural differences across all available metrics—social media engagement, recency, discount usage, and purchasing choices.
 The high-income group displayed commercially valuable traits: shorter time since last visit, selective use of discounts linked to campaigns, and stronger engagement with social media. These behaviours correlated with higher revenue, particularly in alcoholic beverages and meat products.
