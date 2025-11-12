@@ -7,7 +7,7 @@ permalink: /course1_intro/
 <div class="card">
   <h2>LSE Course 1 Assignment</h2>
   <div class="content">
-    <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics. Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge. I went in confident about my abilities with MS Excel, with a reasonable basic foundation in SQL and I had used Tableau as a Viwer but not as a Creator.</p>
+    <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics. Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge. I went in confident about my abilities with MS Excel, with a reasonable basic foundation in SQL and I had used Tableau as a Viewer but not as a Creator.</p>
     
     <h3>Summary of the course modules:</h3>
     <ul>
