@@ -4,10 +4,10 @@ layout: default
 permalink: /c1_iteration/
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 1.5rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h2 style="margin-top: 0; font-size: 1.5rem;">Revised Dashboard</h2>
-  <div style="font-size: 1.1rem; line-height: 1.6;">
-
+<div class="card">
+  <h1>Revised Dashboard</h1>
+  
+  <div class="about-content">
     <u>Summary of changes</u><br><br>
     <ul style="margin-left: 1rem;">
       <li>State key questions and framework earlier: open the presentation with the specific business questions you’ll answer and explicitly mention the problem-solving framework (do this before maps/visuals). </li>
@@ -23,7 +23,7 @@ permalink: /c1_iteration/
 </div>
 
 <div class="fullwidth-image">
-  <img src="/portfolio-toby-draper/images/your-tableau-dashboard.png" alt="Dashboard v2">
+  <img src="/portfolio-toby-draper/images/new_dboard.png" alt="Dashboard v2">
 </div>
 
 ---
@@ -36,9 +36,9 @@ Dashboard V2
 
 ---
 
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/course1_intro/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to previous</a>
-</p>
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
-</p>
+<div class="back-home">
+  <a href="/portfolio-toby-draper/course1_intro/" class="btn">← Back to Previous</a>
+</div>
+<div class="back-home">
+  <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
+</div>
