@@ -31,7 +31,7 @@ permalink: /course1_intro/
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/c1_submission/"><strong>Submitted project</strong></a><br>
-      My Tableau file, the accompanying technical report outlining my approach and post assessment feedback.
+      <p>My Tableau file, the accompanying technical report outlining my approach and post assessment feedback.</p>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ permalink: /course1_intro/
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/c1_iteration/"><strong>Dashboard v2</strong></a><br>
-      I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.
+      <p>I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.</p>
     </div>
   </div>
 </div>
