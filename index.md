@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "Home"
@@ -24,7 +25,7 @@ title: "Home"
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/course1_intro/"><strong>Retail Marketing Data Analysis</strong></a><br>
-      In the first LSE Career Accelerator Assignment, I analysed two data sets using MS Excel, PostgreSQL and Tableau, visualising key relationships and delivering actionable insights and recommendations.
+      <p>In the first LSE Career Accelerator Assignment, I analysed two data sets using MS Excel, PostgreSQL and Tableau, visualising key relationships and delivering actionable insights and recommendations.</p>
     </div>
   </div>
 </div>
@@ -36,7 +37,7 @@ title: "Home"
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/"><strong>National Health Service Data Analysis</strong></a><br>
-      In the second LSE Career Accelerator Assignment, I explored four data sets using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.
+     <p>In the second LSE Career Accelerator Assignment, I explored four data sets using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.</p>
     </div>
   </div>
 </div>
@@ -48,7 +49,7 @@ title: "Home"
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-      Cycling has been revolutionised by tech. I deep dive into my own performance metrics to surface insights the mainstream platforms miss. This is where my obsession with bikes meets a curiosity for transforming, understanding and visualising data.
+      <p>Cycling has been revolutionised by tech. I deep dive into my own performance metrics to surface insights the mainstream platforms miss. This is where my obsession with bikes meets a curiosity for transforming, understanding and visualising data.</p>
     </div>
   </div>
 </div>
