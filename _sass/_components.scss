@@ -142,6 +142,53 @@
   }
 }
 
+// Full-width image containers for dashboards/large visuals
+.fullwidth-image {
+  width: 100%;
+  margin: 2rem 0;
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-glow);
+    box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
+  }
+}
+
+// For images that need to be centered but not full-width
+.centered-image {
+  text-align: center;
+  margin: 2rem 0;
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-glow);
+    box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
+  }
+}
+
+// File grid for downloads
+.file-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.file-item {
+  text-align: center;
+  padding: 1.5rem;
+  
+  .file-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 1rem;
+  }
+}
+
 // Responsive Design
 @media (max-width: 768px) {
   .burger-menu {
@@ -170,48 +217,4 @@
   
   h1 { font-size: 2rem; }
   h2 { font-size: 1.5rem; }
-// Full-width image containers for dashboards/large visuals
-.fullwidth-image {
-  width: 100%;
-  margin: 2rem 0;
-  
-  img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    border: 1px solid var(--border-glow);
-    box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
-  }
-}
-
-// For images that need to be centered but not full-width
-.centered-image {
-  text-align: center;
-  margin: 2rem 0;
-  
-  img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    border: 1px solid var(--border-glow);
-    box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
-  }
-  .file-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.file-item {
-  text-align: center;
-  padding: 1.5rem;
-  
-  .file-icon {
-    width: 64px;
-    height: 64px;
-    margin-bottom: 1rem;
-  }
-}
-}
 }
