@@ -34,6 +34,10 @@ p {
     color: var(--text-secondary);
     margin-bottom: 1rem;
 }
+u {
+  color: var(--text-secondary);
+  text-decoration-color: var(--accent-1);
+}
 ul, ol {
   color: var(--text-secondary);
   margin-bottom: 1rem;
