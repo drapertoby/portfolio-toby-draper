@@ -8,25 +8,17 @@ permalink: /c1_submission/
   <h1>Submission and Facilitator Feedback</h1>
 
  <div class="about-content">
-    <u>Overview</u><br><br>
-    Course 1 consisted of six modules, each one culminating with an Assignment Activity. Students could use these as a basis for their entire submission or ignore them and go their own way in order to meet the brief. The activities were a great starting point although as I became more familiar with the data set, patterns and relationships emerged and I found the confidence to explore them.<br><br>
-
-    <u>Brief</u><br><br>
-    You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.<br><br>
+        <u>Brief</u>
+    <p>You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.</p>
 
     <u>Summary of Approach</u>
 
-  <ul style="margin-left: 1rem; font-size: 1.1rem; line-height: 1.6; color: inherit;">
-    <li>Assignment Activity #1 directed us to report on the general demographics of customers (age, income, marital status etc). It also directed us to spotlight a subset of customers in a particular high income bracket</li>
-    <li>I decided to apply further analysis of the subset of customers in the spotlight from Assignment Activity 1 and found they behaved in a manner that would be desirable for all customers to adopt
-      <ul style="margin-left: 1rem;">
-        <li>Less time had elapsed since their previous visit</li>
-        <li>They were engaged with social media campaigns</li>
-        <li>They tended to leverage discount only via campaigns</li>
-      </ul>
-    </li>
-    <li>Based on these observations, my recommendations were built around ceasing all discount on purchases unless it was linked to a social media campaign. I predicted that this would influence the shopping behaviour of all customers to adopt the habits of the spotlight subset customers</li>
-    <li>The assignment was intended to showcase skills in MS Excel, PostgreSQL and Tableau. All of my Excel and SQL exporation are described in the report and then reproduced using the dataset uploaded to Tableau to keep visualisations consistent</li>
+<p>The project involved analysing customer demographics and comparing general patterns with those of a high-income group. I extended this by examining behavioural differences across all available metrics—social media engagement, recency, discount usage, and purchasing choices.
+The high-income group displayed commercially valuable traits: shorter time since last visit, selective use of discounts linked to campaigns, and stronger engagement with social media. These behaviours correlated with higher revenue, particularly in alcoholic beverages and meat products.
+Based on these insights, I recommended reducing untargeted discounts, incentivising campaign-linked purchases, improving data granularity to refine future targeting, and introducing surveys to address gaps in the data. The goal was to encourage broader customer adoption of the high-income group’s habits.
+</p>
+<ul>
+    <li>The assignment was intended to showcase skills in MS Excel, PostgreSQL and Tableau. All of my Excel and SQL exploration are described in the report and then reproduced using the dataset uploaded to Tableau to keep visualisations consistent</li>
     <li>The brief asks for a dashboard built in Tableau and for a recorded presentation to communicate insights. To simplify delivery, my "dashboard" is actually several dashboards that I click through in the manner of a PowerPoint presentation to tell my story</li>
   </ul>
 </div>
