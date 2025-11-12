@@ -10,7 +10,7 @@ permalink: /c1_iteration/
   <div class="about-content">
     <p>Taking on board the feedback I received from my Course Facilitator, I focused on the suggested improvements to my Tableau dashboard. The learning curve has been steep—getting to grips with the idiosyncrasies of Tableau has challenged me more than expected. My goal is to keep chipping away at improving my skills with this application until I feel confident creating visualisations that are both aesthetically clear and tailored to what stakeholders need to understand business problems and solve them effectively.</p>
     <u>Summary of changes</u><br><br>
-    <ul style="margin-left: 1rem;">
+    <ul>
       <li>State key questions and framework earlier: open the presentation with the specific business questions you’ll answer and explicitly mention the problem-solving framework (do this before maps/visuals). </li>
       <li>Rethink the map: with few countries, consider a different chart type (bar or dot plot) and add relative metrics (per-capita or per-customer) alongside absolutes to account for volume differences. </li>
       <li>Show distributions first: present overall age and income distributions (counts/histograms) before correlation plots (age vs income) so viewers understand group sizes and where bins may be needed. </li>
