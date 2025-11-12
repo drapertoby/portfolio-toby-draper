@@ -62,7 +62,7 @@ Submitted project files and Facilitator Feedback
 ---
 
 <div class="back-home">
-  <a href="/course1_intro/" class="btn">← Back to Previous</a>
+  <a href="/portfolio-toby-draper/course1_intro/" class="btn">← Back to Previous</a>
 </div>
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
