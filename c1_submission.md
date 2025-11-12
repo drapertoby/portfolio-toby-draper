@@ -31,15 +31,18 @@ Based on these insights, I recommended reducing untargeted discounts, incentivis
 
 <div class="file-grid">
   <div class="file-item card">
-    <img src="/portfolio-toby-draper/images/tableau-icon.png" class="file-icon">
-    <div><a href="/portfolio-toby-draper/downloads/Technical_Report.pdf"><strong>Technical Report</strong></a></div>
+    <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
+    <div><a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Technical_Report.pdf"><strong>Technical Report</strong></a></div>
   </div>
   <div class="file-item card">
-    <img src="/portfolio-toby-draper/images/pdf-icon.png" class="file-icon">
-    <div><a href="/portfolio-toby-draper/downloads/Workbook.twbx"><strong>Tableau Workbook</strong></a></div>
+    <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
+    <div><a href="/portfolio-toby-draper/downloads/Toby_Draper_2Market_Dashboard.twbx"><strong>Tableau Workbook</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
+    <div><a href="/portfolio-toby-draper/assets/projects/lse_project_1/Course_1_Feedback.pdf"><strong>Facilitator Feedback</strong></a></div>
   </div>
 </div>
-
 ---
 
 <div class="back-home">
