@@ -5,9 +5,9 @@ permalink: /noodle_2/
 ---
 
 <div class="card">
-  <h1>Noodle 2 - Visualising Progress</h1>
+  <h1>Noodle 2 - Wrangling & early exploration</h1>
   <div class="about-content">
-  <p>After Bike Noodle 1 I made the dataset easier to work with by adding a 'name' column, mapped using a custom function based on values in 'session' to create a more code-friendly naming convention. I added an ftp column using a dictionary, taking FTP values from my TrainerRoad profile and used map() to populate it. To see my progress I built a basic visualisation using Seaborn and Matplotlib.
+  <p>After Bike Noodle 1 I made the dataset easier to work with by adding a 'name' column, mapped using a custom function based on values in 'session' to create a more code-friendly naming convention. I added an ftp column using a dictionary, taking FTP values from my TrainerRoad profile and used map() to populate it. To see my progress I built a simple visualisation using Seaborn and Matplotlib.
   </p>
 </div>
 </div>
