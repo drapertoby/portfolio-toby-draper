@@ -31,7 +31,7 @@ permalink: /c1_iteration/
 
 ## Files
 
-<p>Dashboard V2</p>p>
+<p>Dashboard V2</p>
 
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
