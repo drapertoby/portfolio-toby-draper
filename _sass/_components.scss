@@ -151,18 +151,20 @@
   }
 }
 
-// Full-width images
+// Full-width images with desktop constraint
 .fullwidth-image {
   width: 100%;
-  margin: 2rem 0;
-}
-
-.fullwidth-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  border: 1px solid var(--border-glow);
-  box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
+  max-width: 900px;  // Constrains on desktop
+  margin: 2rem auto; // Centers it
+  text-align: center;
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-glow);
+    box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
+  }
 }
 
 // Centered images
