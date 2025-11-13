@@ -29,3 +29,27 @@ title: "Home"
     </div>
   </div>
 </div>
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/"><strong>National Health Service Data Analysis</strong></a><br>
+     <p>In the second LSE Career Accelerator Assignment, I explored four data sets using Python to produce visualisations designed to inform strategic decisions that shape capacity planning and optimise service delivery.</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/trainer.png" alt="Bike trainer" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
+      <p>Cycling has been revolutionised by tech. I deep dive into my own performance metrics to surface insights the mainstream platforms miss. This is where my obsession with bikes meets a curiosity for transforming, understanding and visualising data.</p>
+    </div>
+  </div>
+</div>
