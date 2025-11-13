@@ -18,7 +18,7 @@ permalink: /noodle_2/
 
 <div class="card">
   <p>
-   I was pleased with this visualisation — Average Power increases relative to FTP, while Average Heart Rate drops. That’s what improving fitness looks like: higher intensity, less effort. I also like its imperfections, which sparked ideas for further       noodling. For example time isn’t relative here, the chart implies regular intervals but sessions were spread unevenly over twenty months. I plan to address this in the next phase and experiment with the dataset in Tableau.
+   I was pleased with this visualisation — Average Power increases relative to FTP, while Average Heart Rate drops. That’s what improving fitness looks like: higher intensity, less effort. I also like its imperfections, for example time isn’t relative here, the chart implies I completed the workout at regular intervals but sessions were spread unevenly over a twenty month period. Hoping to solve that with some more noodling with this data.
   </p>
 </div>
 
