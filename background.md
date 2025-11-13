@@ -19,7 +19,7 @@ permalink: /background/
       <img src="/portfolio-toby-draper/images/strava.png" alt="Strava" />
     </div>
     <div class="project-info">
-      <p></p><strong>Introduction to Strava</strong></p>
+      <p><strong>Introduction to Strava</strong></p>
     <p>Strava is a fitness tracking platform where cyclists and runners log their activities, analyse performance, and share progress — you can see mine <a href="https://www.strava.com/athletes/1754723" target="_blank">here</a>. For newcomers, Strava offers <a href="https://support.strava.com/hc/en-us/articles/216917147-Strava-Training-Glossary-for-Cycling" target="_blank">this training glossary</a> that explains key cycling terms like FTP, cadence, and power zones that will be explored in this project.</p>  
    </div>
   </div>
