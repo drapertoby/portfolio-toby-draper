@@ -31,10 +31,12 @@ permalink: /c1_iteration/
 
 ## Files
 
-Dashboard V2
+<p>Dashboard V2</p>p>
 
-- [New Tableau Dashboard (.twbx)](/portfolio-toby-draper/assets/projects/lse_project_1/three market 2 dash.twbx)
-
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
+<div><a href="/portfolio-toby-draper/downloads/three market 2 dash.twbx"><strong>New Tableau Workbook</strong></a></div>
+  </div>
 ---
 
 <div class="back-home">
