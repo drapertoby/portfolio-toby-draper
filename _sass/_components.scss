@@ -179,23 +179,36 @@
   box-shadow: 0 5px 25px rgba(0, 240, 255, 0.2);
 }
 
-// File grid
+// File grid for downloads - improved
 .file-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
+  
+  // Better handling for single items
+  &:has(.file-item:only-child) {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+    justify-content: center;
+  }
 }
 
 .file-item {
   text-align: center;
   padding: 1.5rem;
+  
+  .file-icon {
+    width: 64px;        // Fixed width
+    height: 64px;       // Fixed height  
+    margin-bottom: 1rem;
+    object-fit: contain; // Prevents stretching
+  }
 }
 
-.file-icon {
-  width: 64px;
-  height: 64px;
-  margin-bottom: 1rem;
+// Fallback for browsers that don't support :has()
+.file-item:only-child {
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 // Mobile responsive
