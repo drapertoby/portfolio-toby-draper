@@ -43,10 +43,6 @@ permalink: /background/
 
 ---
 
-<p style="margin-top: 2rem;">
-  <a href="/portfolio-toby-draper/" style="font-size: 1rem; text-decoration: none; color: #007acc;">← Back to Home</a>
-</p>
-
 <div class="back-home">
   <a href="/portfolio-toby-draper/bicycle-noodling/" class="btn">← Back to previous</a>
 </div>
