@@ -12,7 +12,7 @@ permalink: /about/
 
     <p>I was always fascinated in how business metrics can tell stories that guide service improvements, shape coaching programmes and provide clear value to internal leaders and clients. Presenting this analysis was the aspect of my work I found most rewarding.</p>
 
-    <p>Because I wanted to go even deeper, I enrolled in the London School of Economics "Career Accelerator" in Data Analytics. I am on a journey from Data Enthusiast to Data Professional, building on my existing skills in MS Excel and SQL, I am now proficient in Tableau, Python, and R. The challenge of mastering these tools has been immensely gratifying.</p>
+    <p>Because I wanted to go even deeper, I enrolled in the London School of Economics "Career Accelerator" in Data Analytics. I am on a journey from Data Enthusiast to Data Professional, building on my existing skills in MS Excel and SQL, I am now proficient in Tableau, Python, and R. It's been tough at times but I love the feeling of acheivement from solving difficult data problems.</p>
 
     <p>I am now seeking a role that sits at the intersection of data and people. My goal is to leverage my analytical skills to solve complex business problems, while applying my extensive experience in stakeholder management to ensure solutions are always built with transparency, collaboration, and consensus.</p>
   </div>
