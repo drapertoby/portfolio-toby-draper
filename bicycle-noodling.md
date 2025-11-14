@@ -5,16 +5,11 @@ permalink: /bicycle-noodling/
 ---
 
 <div class="card">
-  <div style="display: flex; align-items: start; gap: 2rem;">
-    <div class="image-container" style="flex: 0 0 160px;">
-      <img src="/portfolio-toby-draper/images/bikes.jpg" alt="My beautiful bike" />
-    </div>
-    <div>
       <h2>Bicycle Noodling</h2>
+   <div class="about-content">
       <p>I have built a large reserve of activity data from over ten years of tracking with platforms like Strava. In these projects, I transform .fit files into a readable format — turning raw metrics into a foundation for exploring patterns, spotting problems, and uncovering opportunities for further analysis.</p>
     </div>
   </div>
-</div>
 
 ## Background
 
