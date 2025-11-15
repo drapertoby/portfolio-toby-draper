@@ -9,7 +9,7 @@ permalink: /projects/
    <div class="about-content">
       <p>I learn by doing. These projects reflect that, some from the LSE Career Accelerator, others from public datasets that caught my interest and then more from questions I wanted to explore for myself.
          As I become more confident in the tools I am also working on how I approach problems.  Being clear about assumptions, documenting decisions and aiming for solutions that are easy to follow and being open to feedback. 
-        Each project is a step toward working in a way that’s transparent, collaborative, and designed to deliver value.</p>
+        Each project is a step toward working in a way that’s transparent, collaborative and designed to deliver value.</p>
     </div>
   </div>
 
