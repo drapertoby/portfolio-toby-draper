@@ -8,7 +8,7 @@ permalink: /contact/
   <h1>Get In Touch</h1>
   
   <div class="contact-content">
-    <p>I'm always interested in new opportunities, collaborations, and discussing data analytics projects.</p>
+    <p>I'm always interested in new opportunities, collaborations and discussing data analytics projects.</p>
     
     <div class="contact-methods">
       <div class="contact-item">
