@@ -13,18 +13,32 @@ permalink: /projects/
     </div>
   </div>
 
-  ## Career Accelerator Assignments
+## Career Accelerator Assignments
 
 <div class="card">
    <div class="project-layout">
     <div class="image-container">
-      <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2"><img src="/portfolio-toby-draper/images/power-zones.png" alt="Intro" />
+      <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2">
     </div>
     <div class="project-info">
-      <a href="/portfolio-toby-draper/background/"><strong>Assignment activity</strong></a><br>
+      <a href="/portfolio-toby-draper/assignments/"><strong>Assignment projects</strong></a><br>
       <p>Project 1 - Analysing retail marketing data, using MS Excel, PostgreSQL and Tableau. Identifying a business problem, visualising demographics and delivering visualisations, insights and recommendations designed to solve the business problem</p>
       <p>Project 2 - Using Python to evaluate NHS appointment data. Creating visualisations to identify patterns and potential capacity problems and making recommendations to inform resource planning relative to growing demand</p>
       <p>Project 3 - Getting more advanced with Python and also using R, using regression and sentiment analysis to predict business outcomes and make recommendations </p>
+    </div>
+  </div>
+</div>
+
+## Personal Projects
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/trainer.png" alt="Bike trainer" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Personal projects</strong></a><br>
+      <p>Whether it’s data from my obsession with cycling or public datasets that spark curiosity, I’m always asking questions and trying to solve problems that matter to me.</p>
     </div>
   </div>
 </div>
