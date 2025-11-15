@@ -1,7 +1,7 @@
 ---
 title: My Projects
 layout: default
-permalink: /Projects/
+permalink: /projects/
 ---
 
 <div class="card">
