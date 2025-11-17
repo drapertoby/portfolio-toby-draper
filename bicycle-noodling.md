@@ -51,6 +51,20 @@ permalink: /bicycle-noodling/
   </div>
 </div>
 
+<div class="card">
+   <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/tableau1.png" alt="First Chart" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/noodle_3/"><strong>3. Tableau reveals a problem</strong></a><br>
+      <p>Further exploration of the activity data in Tableau which revealed a pattern to visualise and investigate further.</p>
+    </div>
+  </div>
+</div>
+
+---
+
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
 </div>
