@@ -5,7 +5,7 @@ permalink: /nhs/
 ---
 
 <div class="card">
-  <h1>Ovewrview</h1>
+  <h1>Overview</h1>
 
  <div class="about-content">
         <h2>Brief</h2>
