@@ -11,16 +11,44 @@ permalink: /c1_submission/
         <h2>Brief</h2>
     <p>You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour.</p>
 
-    <h2>Summary of Approach</h2>
+    <h2>Problem statement</h2>
 
-<p>The project involved analysing customer demographics and comparing general patterns with those of a high-income group. I extended this by examining behavioural differences across all available metrics—social media engagement, recency, discount usage, and purchasing choices.
-The high-income group displayed commercially valuable traits: shorter time since last visit, selective use of discounts linked to campaigns, and stronger engagement with social media. These behaviours correlated with higher revenue, particularly in alcoholic beverages and meat products.
-Based on these insights, I recommended reducing untargeted discounts, incentivising campaign-linked purchases, improving data granularity to refine future targeting, and introducing surveys to address gaps in the data. The goal was to encourage broader customer adoption of the high-income group’s habits.
+<p>Previous marketing campaigns generated engagement from a low proportion of registered 2Market customers. This has negatively impacted how soon customers return to make purchases.
 </p>
+
+<h2>Objective</h2>
+
+<p>Attract customers to return and make purchases sooner by leveraging data-driven marketing campaigns that offer compelling discounts.</p>
+
+<h2>Tools and data</h2>
+
+<p>MS Excel, PostgreSQL, Tableau</p>
+<p>Project data consisted of 2 .csv files containing > 2200 rows of data. They described customer demographics, purchasing behaviour (spend, discount, recency) and response to campaigns.</p>
+
+<h2>Method</h2>
 <ul>
-    <li>The assignment was intended to showcase skills in MS Excel, PostgreSQL and Tableau. All of my Excel and SQL exploration are described in the report and then reproduced using the dataset uploaded to Tableau to keep visualisations consistent</li>
-    <li>The brief asks for a dashboard built in Tableau and for a recorded presentation to communicate insights. To simplify delivery, my "dashboard" is actually several dashboards that I click through in the manner of a PowerPoint presentation to tell my story</li>
+    <li>Data was cleaned in Excel, removed outliers, corrected invalid categorical entries and standardised inconsistent date formats across the dataset.</li>
+    <li>Imported to PostgreSQL and Tableau, left join on ID field</li>
+    <li>All visualisations created in Tableau</li>
   </ul>
+
+<h2>Insights</h2>
+<ul>
+    <li>Relationship identified between social media engagement, deals and recency</li>
+    <li>Generally, customers are not leveraging deals via campaigns. Recency is very high</li>
+    <li>High recency likely to negatively impact revenue</li>
+    <li>Customers in high income bracket very responsive to social media campaigns</li>
+    <li>Recency significantly lower for this group</li>
+  </ul>
+
+<h2>Recommendations</h2>
+<ul>
+    <li>Increase granularity of product types. Example, create product sub-types to improve ability to identify potential offers</li>
+    <li>Phase out deals not linked to social media campaigns</li>
+    <li>Reward social media engagement with deals</li>
+    <li>Survey customers to address lack of detail in the data</li>
+</ul>
+    
 </div>
 </div>
 ---
