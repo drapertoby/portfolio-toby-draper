@@ -13,7 +13,7 @@ permalink: /assignments/
 
 ---
 
-  ## Assignment pages
+## Assignment pages
 
   <div class="card">
   <div class="project-layout">
