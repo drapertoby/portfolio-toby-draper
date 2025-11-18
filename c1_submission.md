@@ -5,7 +5,7 @@ permalink: /c1_submission/
 ---
 
 <div class="card">
-  <h1>Submission and Facilitator Feedback</h1>
+  <h1>Assignment 1: Retail Marketing Analysis</h1>
 
  <div class="about-content">
         <h2>Brief</h2>
