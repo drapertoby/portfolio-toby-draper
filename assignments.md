@@ -18,7 +18,7 @@ permalink: /assignments/
   <div class="card">
   <div class="project-layout">
     <div class="image-container">
-      <img src="/portfolio-toby-draper/images/Assignment2_home.png" alt="Assignment 1" />
+      <img src="/portfolio-toby-draper/images/2market.png" alt="Assignment 1" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/course1_intro/"><strong>Retail Marketing Data Analysis</strong></a><br>
@@ -30,7 +30,7 @@ permalink: /assignments/
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
-      <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2" />
+      <img src="/portfolio-toby-draper/images/nhs.png" alt="Assignment 2" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/nhs/"><strong>National Health Service Data Analysis</strong></a><br>
