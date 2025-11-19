@@ -64,11 +64,11 @@ permalink: /c1_submission/
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
-    <div><a href="/portfolio-toby-draper/downloads/Toby_Draper_2Market_Dashboard.twbx"><strong>Tableau Workbook</strong></a></div>
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Toby_Draper_2Market_Dashboard.twbx" target="_blank" rel="noopener"><strong>Tableau Workbook</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="/portfolio-toby-draper/assets/projects/lse_project_1/Course_1_Feedback.pdf"><strong>Facilitator Feedback</strong></a></div>
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Course_1_Feedback.pdf" target="_blank" rel="noopener"><strong>Facilitator Feedback</strong></a></div>
   </div>
 </div>
 ---
