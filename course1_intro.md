@@ -33,7 +33,8 @@ permalink: /course1_intro/
   </div>
 </div>
 
-## Iteration
+## Iterations
+
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
@@ -42,6 +43,18 @@ permalink: /course1_intro/
     <div class="project-info">
       <a href="/portfolio-toby-draper/c1_iteration/"><strong>Dashboard v2</strong></a><br>
       <p>I produced a revised version of my dashboard in Tableau based on the feedback from the course facilitator.</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/version3.png" alt="Version3" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/c1_version3/"><strong>Dashboard v3</strong></a><br>
+      <p>Continuing to develop my dasboard, I created a version which stakeholders could use to track my recommended objectives and their effect to revenue.</p>
     </div>
   </div>
 </div>
