@@ -54,7 +54,7 @@ permalink: /course1_intro/
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/c1_version3/"><strong>Dashboard v3</strong></a><br>
-      <p>Continuing to develop my dasboard, I created a version which stakeholders could use to track my recommended objectives and their effect to revenue.</p>
+      <p>Continuing to develop my dasboard, I created a version which stakeholders could use to track my recommended objectives and their effect to revenue. I also learned to embrace white space from a design perspective.</p>
     </div>
   </div>
 </div>
