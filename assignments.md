@@ -11,8 +11,6 @@ permalink: /assignments/
     </div>
   </div>
 
----
-
 ## Assignment pages
 
   <div class="card">
