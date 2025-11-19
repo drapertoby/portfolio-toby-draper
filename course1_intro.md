@@ -9,7 +9,7 @@ permalink: /course1_intro/
   <div class="content">
     <p>In 2025 I returned to education with the London School of Economics and Political Science Career Accelerator programme in Data Analytics. Course 1 "Data Analytics for Business" provided a combination of familiarity and challenge. I went in confident about my abilities with MS Excel, with a reasonable basic foundation in SQL and I had used Tableau as a Viewer but not as a Creator.</p>
     
-    <h3>Summary of the course modules:</h3>
+    <h3>Course summary</h3>
     <ul>
      <li>Applying structured thinking – using frameworks such as "Five Whys" to formulate business problems and inform the approach</li>
      <li>MS Excel – An old friend, which I have been using in business for more than 20 years. I learned some new functions that I had not used previously but I was within my comfort zone in this module</li>
