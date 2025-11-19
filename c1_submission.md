@@ -60,7 +60,7 @@ permalink: /c1_submission/
 <div class="file-grid">
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="/portfolio-toby-draper/assets/projects/lse_project_1/Toby_Draper_2Market_Technical_Report.pdf"><strong>Technical Report</strong></a></div>
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Toby_Draper_2Market_Technical_Report.pdf" target="_blank" rel="noopener"><strong>Technical Report</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
