@@ -35,7 +35,7 @@ permalink: /c1_iteration/
 
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
-<div><a href="/portfolio-toby-draper/downloads/three market 2 dash.twbx"><strong>New Tableau Workbook</strong></a></div>
+<div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketingdashboard_v2.twbx" target="_blank" rel="noopener"><strong>New Tableau Workbook</strong></a></div>
   </div>
 ---
 
