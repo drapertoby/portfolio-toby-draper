@@ -24,9 +24,9 @@ permalink: /nhs/
 
 <h2>Tools and data</h2>
 
-<p>Python</p>
-<p><strong>Libraries</strong>pnadas (data operations), numpy (numeric operations), datetime (date manipulation), seaborn and matplotlib (visualisations), re, WordCloud and STOPWORDS (WordCloud/Social Media visualisation)</p>
-<p>Data: Three csv files containing over 1.5 million records describing approximately 24 million monthly NHS appointments from a 30 month period. Additionally approximately a csv contiaing tweet data from approximately 1000 tweets extracted from X (formerly Twitter).</p>
+<p><strong>Tools: </strong>Python</p>
+<p><strong>Libraries: </strong>Pandas (data operations), numpy (numeric operations), datetime (date manipulation), seaborn and matplotlib (visualisations), re, WordCloud and STOPWORDS (WordCloud/Social Media visualisation)</p>
+<p><strong>Data: </strong>Three csv files containing over 1.5 million records describing approximately 24 million monthly NHS appointments from a 30 month period. Additionally approximately a csv contiaing tweet data from approximately 1000 tweets extracted from X (formerly Twitter).</p>
 
 <h2>Method</h2>
 <ul>
