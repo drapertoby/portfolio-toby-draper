@@ -13,7 +13,7 @@ permalink: /projects/
     </div>
   </div>
 
-## Career Accelerator Assignments
+## Business Analysis
 
 <div class="card">
    <div class="project-layout">
@@ -21,7 +21,7 @@ permalink: /projects/
       <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2">
     </div>
     <div class="project-info">
-      <a href="/portfolio-toby-draper/assignments/"><strong>Assignment projects</strong></a><br>
+      <a href="/portfolio-toby-draper/assignments/"><strong>Career Accelerator Assignments</strong></a><br>
       <p>Project 1 - Analysing retail marketing data, using MS Excel, PostgreSQL and Tableau. Identifying a business problem, visualising demographics and delivering visualisations, insights and recommendations designed to solve the business problem</p>
       <p>Project 2 - Using Python to evaluate NHS appointment data. Creating visualisations to identify patterns and potential capacity problems and making recommendations to inform resource planning relative to growing demand</p>
       <p>Project 3 - Getting more advanced with Python and also using R, using regression and sentiment analysis to predict business outcomes and make recommendations </p>
