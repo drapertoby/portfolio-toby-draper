@@ -204,6 +204,9 @@
     height: 64px;       // Fixed height  
     margin-bottom: 1rem;
     object-fit: contain; // Prevents stretching
+     background: white;  // Adds white background behind transparent icons
+    border-radius: 8px; // Optional: rounds the corners
+    padding: 4px;       // Optional: adds some spacing
   }
 }
 

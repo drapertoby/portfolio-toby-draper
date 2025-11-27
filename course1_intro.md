@@ -60,6 +60,10 @@ permalink: /course1_intro/
 </div>
 
 <div class="back-home">
+  <a href="/portfolio-toby-draper/projects/" class="btn">← Back to Projects</a>
+</div>
+
+<div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
 </div>
 

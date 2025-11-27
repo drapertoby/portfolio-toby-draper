@@ -45,7 +45,7 @@ permalink: /nhs/
 
 <h2>Recommendations</h2>
 <ul>
-    <li>Calcualte new capacity limit and staff to meet increased demand</li>
+    <li>Calculate new capacity limit and staff to meet increased demand</li>
     <li>Ensure coverage during seasonal peaks</li>
     <li>Address unattadence with increased remote appointments, reducing time between booking and appointment and with social media campaigns to promote awareness</li>
     </ul>

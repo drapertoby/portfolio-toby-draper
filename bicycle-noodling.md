@@ -54,7 +54,7 @@ permalink: /bicycle-noodling/
 <div class="card">
    <div class="project-layout">
     <div class="image-container">
-      <img src="/portfolio-toby-draper/tableau1.png" alt="First Chart" />
+      <img src="/portfolio-toby-draper/images/tableau1.png" alt="First Chart" />
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/noodle_3/"><strong>3. Tableau reveals a problem</strong></a><br>
@@ -64,6 +64,10 @@ permalink: /bicycle-noodling/
 </div>
 
 ---
+
+<div class="back-home">
+  <a href="/portfolio-toby-draper/projects/" class="btn">← Back to Projects</a>
+</div>
 
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
