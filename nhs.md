@@ -73,6 +73,11 @@ permalink: /nhs/
     <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/nhs_appointment_analysis/Toby_Draper_Assignment_Feedback.pdf" target="_blank" rel="noopener"><strong>Facilitator Feedback</strong></a></div>
   </div>
 </div>
+
+<div class="fullwidth-image">
+  <img src="/portfolio-toby-draper/images/Utilisation.png" alt="Presentation Snapshot">
+</div>
+
 ---
 
 <div class="back-home">
