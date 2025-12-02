@@ -59,6 +59,18 @@ permalink: /course1_intro/
   </div>
 </div>
 
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/dash_tableau_4.png" alt="new_dashboards" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/dashboards/"><strong>Deeper with Dashboards</strong></a><br>
+      <p>As an admirer of dashboard designs, I developed my 2Market dashboard in Tableau further to explore interactivity and impactful design. Then, I pushed further: Could I recreate the same experience in Looker Studio, a tool I'd never used? This mini-project documents the translation from Tableau's flexibility to Looker Studio's more static logic and highlights the different ways each tool handles data, visuals, and user interaction to achieve a similar goal.</p>
+    </div>
+  </div>
+</div>
+
 <div class="back-home">
   <a href="/portfolio-toby-draper/projects/" class="btn">← Back to Projects</a>
 </div>
