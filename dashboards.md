@@ -37,7 +37,17 @@ permalink: /dashboards/
 
 ## Files
 
-<p>Tableau workbook and Jupyter Notebook coming soon!</p>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
+<div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/2market_final.twbx" target="_blank" rel="noopener"><strong>Tableau Workbook - Final Version</strong></a></div>
+  </div>
+
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
+<div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/melt_transform_to_long_format_for_looker.ipynb" target="_blank" rel="noopener"><strong>Reshape Data Set to Long Format</strong></a></div>
+  </div>
+
+---
 
 <div class="back-home">
   <a href="/portfolio-toby-draper/course1_intro/" class="btn">← Back to Previous</a>
