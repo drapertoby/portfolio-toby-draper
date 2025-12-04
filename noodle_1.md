@@ -8,7 +8,7 @@ permalink: /noodle_1/
   <h1>Noodle 1 - Transforming The Data</h1>
   <p>
    Stage 1 is to transform 6 .fit files taken from the workout "Aerobic Recovery" devised by my coach, Scout. This workout was completed between December 2023 and July 2025 when my fitness levels varied.
-    After wrangling the data in Python using the fitparse library, I create a .csv file containing the concatinated data in a table format of rows and columns that is ready for further analysis. 
+    After wrangling the data in Python using the fitparse library, I create a .csv file containing the transformed data in a table format of rows and columns that is ready for further analysis. 
   </p>
 </div>
 
@@ -16,13 +16,22 @@ permalink: /noodle_1/
 
 ## Files
 
-<p>To follow along with this project, the following files are available for download:</p>
+<p>Project files for your own noodling</p>
 
-- [Notebook: FIT file transform](/portfolio-toby-draper/assets/projects/bicycle-noodling/1_fit_file_transform.ipynb)
-- [Workout CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery.csv)
-- [Readme: File details and usage notes](/portfolio-toby-draper/assets/projects/bicycle-noodling/readme.txt)
-
-
+<div class="file-grid">
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/1_fit_file_transform.ipynb" target="_blank" rel="noopener"><strong>Transform FIT in Python</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/csv_icon.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/aerobic_recovery.csv" target="_blank" rel="noopener"><strong>Transformed CSV</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/txt_icon.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/readme.txt" target="_blank" rel="noopener"><strong>Readme: File details and usage notes</strong></a></div>
+  </div>
+</div>
 
 ---
 
