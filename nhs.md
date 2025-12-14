@@ -20,7 +20,7 @@ permalink: /nhs/
 
 <h2>Objective</h2>
 
-<p>Explores available data to identify insights and recommendations which will inform strategic decisions that shape capacity planning and optimise service delivery.</p>
+<p>Explore available data to identify insights and recommendations which will inform strategic decisions that shape capacity planning and optimise service delivery.</p>
 
 <h2>Tools and data</h2>
 

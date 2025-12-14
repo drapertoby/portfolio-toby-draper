@@ -37,6 +37,7 @@ permalink: /noodle_2/
     <img src="/portfolio-toby-draper/icons/csv_icon.png" class="file-icon">
     <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/aerobic_recovery_v2.csv" target="_blank" rel="noopener"><strong>Improved CSV</strong></a></div>
   </div>
+  </div>
 
 ---
 
