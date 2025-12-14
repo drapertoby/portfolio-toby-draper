@@ -18,7 +18,7 @@ permalink: /noodle_2/
 
 <div class="card">
   <p>
-   I was pleased with this visualisation — Average Power increases relative to FTP, while Average Heart Rate drops. That’s what improving fitness looks like: higher intensity, less effort. I also like its imperfections, for example time isn’t relative here, the chart implies I completed the workout at regular intervals but sessions were spread unevenly over a twenty month period. Hoping to solve that with some more noodling with this data.
+   I was pleased with this visualisation, you can clearly see Average Power increasing relative to FTP, while Average Heart Rate drops. That’s what improving fitness looks like: higher intensity, less effort. I also like its imperfections, for example time isn’t relative here, the chart implies I completed the workout at regular intervals but sessions were spread unevenly over a twenty month period. This is good data to play around with and visualise in different ways.
   </p>
 </div>
 
@@ -26,10 +26,17 @@ permalink: /noodle_2/
 
 ## Files
 
-To follow along with this project, the following files are available for download:
+<p>To follow along with this project, the following files are available for download:</p>
 
-- [Notebook: All the code for this step](/portfolio-toby-draper/assets/projects/bicycle-noodling/amend_df_and_visualise.ipynb)
-- [Amended CSV](/portfolio-toby-draper/assets/projects/bicycle-noodling/aerobic_recovery_v2.csv)
+<div class="file-grid">
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/amend_df_and_visualise.ipynb" target="_blank" rel="noopener"><strong>Notebook: All the code for this step</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/csv_icon.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/bicycle_noodling/aerobic_recovery_v2.csv" target="_blank" rel="noopener"><strong>Improved CSV</strong></a></div>
+  </div>
 
 ---
 
