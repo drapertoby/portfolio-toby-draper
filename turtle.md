@@ -54,7 +54,7 @@ marketing strategies, increase engagement and boost sales.</p>
 </div>
 
 <div class="fullwidth-image">
-  <img src="/portfolio-toby-draper/images/Utilisation.png" alt="Presentation Snapshot">
+  <img src="/portfolio-toby-draper/images/top_tier_rewards.png" alt="Predictions and Recommendations">
 </div>
 
 ---
