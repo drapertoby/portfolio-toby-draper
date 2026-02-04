@@ -21,6 +21,18 @@ title: "Home"
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
+      <img src="/portfolio-toby-draper/images/turtle_shop.png" alt="Turtle Games" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/turtle/"><strong>Predictve Analysis in Retail</strong></a><br>
+      <p>In this project, I used Python and R to analyse customer demographics, spending, and reviews. I built regression and clustering models to identify high-value segments and used NLP to assess sentiment, producing targeted strategy recommendations to optimise a loyalty programme.</p>
+    </div> 
+  </div>
+</div>
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
       <img src="/portfolio-toby-draper/images/2market.png" alt="Assignment 1" />
     </div>
     <div class="project-info">
@@ -42,14 +54,3 @@ title: "Home"
   </div>
 </div>
 
-<div class="card">
-  <div class="project-layout">
-    <div class="image-container">
-      <img src="/portfolio-toby-draper/images/trainer.png" alt="Bike trainer" />
-    </div>
-    <div class="project-info">
-      <a href="/portfolio-toby-draper/bicycle-noodling/"><strong>Bicycle Noodling</strong></a><br>
-      <p>Cycling has been revolutionised by tech. I deep dive into my own performance metrics to surface insights the mainstream platforms miss. This is where my obsession with bikes meets a curiosity for transforming, understanding and visualising data.</p>
-    </div>
-  </div>
-</div>
