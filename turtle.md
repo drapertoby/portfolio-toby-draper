@@ -74,7 +74,7 @@ marketing strategies, increase engagement and boost sales.</p>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/R_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/predictive_analysis/Draper_Toby_DA301_Assignment_Rscript.R" target="_blank" rel="noopener"><strong>Code (Jupyter Notebook)</strong></a></div>
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/predictive_analysis/Draper_Toby_DA301_Assignment_Rscript.R" target="_blank" rel="noopener"><strong>Code (R Script)</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
