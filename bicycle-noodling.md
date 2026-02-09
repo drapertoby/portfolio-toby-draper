@@ -45,7 +45,7 @@ permalink: /bicycle-noodling/
       <img src="/portfolio-toby-draper/images/bn_2_chart.png" alt="First Chart" />
     </div>
     <div class="project-info">
-      <a href="/portfolio-toby-draper/noodle_2/"><strong>2. Wrangle & explore</strong></a><br>
+      <a href="/portfolio-toby-draper/noodle_2/"><strong>2. EDA in Python</strong></a><br>
       <p>The original dataset created in phase 1 needed a few changes to make it easier to work with. I also added data which was not contained in the original .fit file to aid fitness tracking in visualisations. And to test my work, I created the first basic visualisation of this project using the Seaborn and Matplotlib libraries.</p>
     </div>
   </div>
@@ -57,8 +57,8 @@ permalink: /bicycle-noodling/
       <img src="/portfolio-toby-draper/images/tableau1.png" alt="First Chart" />
     </div>
     <div class="project-info">
-      <a href="/portfolio-toby-draper/noodle_3/"><strong>3. Tableau reveals a problem</strong></a><br>
-      <p>Further exploration of the activity data in Tableau which revealed a pattern to visualise and investigate further.</p>
+      <a href="/portfolio-toby-draper/noodle_3/"><strong>3. Continued EDA in Tableau</strong></a><br>
+      <p>Further exploration of the activity data in Tableau which provided me with ideas for visualisations.</p>
     </div>
   </div>
 </div>
