@@ -37,13 +37,23 @@ permalink: /assignments/
   </div>
 </div>
 
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
+      <img src="/portfolio-toby-draper/images/turtle_shop.png" alt="Turtle Games" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/turtle/"><strong>Predictve Analysis in Retail</strong></a><br>
+      <p>In tthe third LSE Career Accelerator Assignment, I used Python and R to analyse customer demographics, spending, and reviews. I built regression and clustering models to identify high-value segments and used NLP to assess sentiment, producing targeted strategy recommendations to optimise a loyalty programme.</p>
+    </div> 
+  </div>
+</div>
+
 ---
 
 <div class="back-home">
-  <a href="/portfolio-toby-draper/bicycle-noodling/" class="btn">← Back to previous</a>
+  <a href="/portfolio-toby-draper/projects/" class="btn">← Back to previous</a>
 </div>
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
 </div>
-
-<!--force commit-->
