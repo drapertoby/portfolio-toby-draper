@@ -5,16 +5,16 @@ permalink: /about/
 ---
 
 <div class="card">
-  <h1>About Me: People-First Data Analytics</h1>
+  <h1>Data analyst, business analyst… what's in a job title?</h1>
   
   <div class="about-content">
-    <p>I am a former Technical Support and Customer Success Leader with a background in IT Service Management and IT Asset Management applications. My previous experience provides solid foundations of stakeholder manangement and leadership skills but it was my consistent passion for data that defined my chosen direction.</p>
+    <p>For me, it's the work behind it that counts. I am a former Technical Support and Customer Success Leader at BMC Software. My previous experience provides solid foundations in stakeholder management and leadership, but it was my consistent passion for data that defined my chosen direction.</p>
 
-    <p>I was always fascinated in how business metrics can tell stories that guide service improvements, shape coaching programmes and provide clear value to internal leaders and clients. Presenting this analysis was the aspect of my work I found most rewarding.</p>
+    <p>I was always fascinated by how business metrics guide service improvements, shape coaching programmes, and provide clear value to internal leaders and clients. Presenting this analysis was the aspect of my work I found most rewarding.</p>
 
-    <p>Because I wanted to go even deeper, I enrolled in the London School of Economics "Career Accelerator" in Data Analytics. I am on a journey from Data Enthusiast to Data Professional, building on my existing skills in MS Excel and SQL, I am now proficient in Tableau, Python, and R. It's been tough at times but I love the feeling of acheivement from solving difficult data problems.</p>
+    <p>I wanted to go even deeper, so I enrolled in the London School of Economics Career Accelerator in Data Analytics, which put me on a journey from Data Enthusiast to Data Professional. Building on my existing skills in Excel and SQL, I am now proficient in Tableau, Python, and R.</p>
 
-    <p>I am now seeking a role that sits at the intersection of data and people. My goal is to leverage my analytical skills to solve complex business problems, while applying my extensive experience in stakeholder management to ensure solutions are always built with transparency, collaboration, and consensus.</p>
+    <p>I am now focusing on bringing my unique blend of experience and analytical skill to customer success in the SaaS and AI space. I am seeking a role where I can partner with customer success operations teams to uncover insights that reduce churn and identify expansion opportunities. I want to help clients realise the full value of their strategic subscriptions and build data solutions with transparency, collaboration, and consensus.</p>
   </div>
 </div>
 

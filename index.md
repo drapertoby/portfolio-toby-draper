@@ -9,8 +9,8 @@ title: "Home"
       <img src="/portfolio-toby-draper/images/toby.png" alt="Toby Draper headshot" class="headshot">
     </div>
    <div class="profile-content">
-      <h2>My name is Toby Draper, welcome to my portfolio</h2>
-      <p>I am a storyteller who uses data to solve business problems through compelling, evidence-based narratives. This site showcases that work and the technical skills I am acquiring to support it. It includes projects from the Career Accelerator programme with the London School of Economics and Political Science, where I am currently enrolled. It also features independent, personal projects that transform, explore, and visualise data from sources that interest me.</p>
+      <h2>Toby Draper - Data Analyst unleashing insight from customer success data in AI & SaaS</h2>
+      <p>With extensive leadership experience in the tech space, I am engaged in merging that background with my new analytical skills to focus on customer success operations and help businesses unleash the full potential of their data. This portfolio showcases my assignments from the Data Analytics Career Accelerator with the London School of Economics, where I honed skills in Python, SQL, Tableau, and R through end-to-end work solving real business problems. I will continue to develop new projects and case studies that reflect my focus on customer success operations, as well as personal projects that transform, explore, and visualise data from sources that interest me.</p>
     </div>
     
 </div>
