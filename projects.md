@@ -18,6 +18,19 @@ permalink: /projects/
 <div class="card">
    <div class="project-layout">
     <div class="image-container">
+      <img src="/portfolio-toby-draper/images/ravenstack_portfolio.png" alt="SaaS - RavenStack">
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/customer_success_analytics/"><strong>Customer Success Analytics</strong></a><br>
+      <p>Phase 1 - Case study combining explorative, explanatory, and predictive analysis using the RavenStack dataset (Rivalytics, 2025)</p>
+      <p>Phase 2 - ETL pipeline to productionise the analysis as a proof-of-concept analytical stack</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+   <div class="project-layout">
+    <div class="image-container">
       <img src="/portfolio-toby-draper/images/lse_assignment_2.png" alt="Assignment 2">
     </div>
     <div class="project-info">

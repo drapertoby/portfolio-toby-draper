@@ -21,6 +21,18 @@ title: "Home"
 <div class="card">
   <div class="project-layout">
     <div class="image-container">
+      <img src="/portfolio-toby-draper/images/ravenstack_portfolio.png" alt="SaaS RavenStack" />
+    </div>
+    <div class="project-info">
+      <a href="/portfolio-toby-draper/customer_success_analytics/"><strong>Customer Success Analytics</strong></a><br>
+      <p>I used Python and R to analyse account, subscription, usage, support ticket, and churn event data. I wrote a case study that frames my analysis and draws on industry research (white papers) and my own experience leading customer-facing teams at BMC Software. I built a clustering model using KMeans to differentiate accounts, developed a health scoring framework, and trained a decision tree classifier to predict churn.</p>
+    </div> 
+  </div>
+</div>
+
+<div class="card">
+  <div class="project-layout">
+    <div class="image-container">
       <img src="/portfolio-toby-draper/images/turtle_shop.png" alt="Turtle Games" />
     </div>
     <div class="project-info">
