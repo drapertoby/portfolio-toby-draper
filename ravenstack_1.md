@@ -1,7 +1,7 @@
 ---
 title: RavenStack 1
 layout: default
-permalink: /ravensatack_1/
+permalink: /ravenstack_1/
 ---
 
 <div class="card">
@@ -44,14 +44,15 @@ Your Company Scales Beyond Initial Hypergrowth' (Weiss, 2025)</li>
     </ul>
 
 <h2>Results</h2>
-<ul> <li><strong>Health scoring</strong> Total spending is the main driver of loyalty point accumulation for the majority of customers.</li> <li><strong>Income-Driven Thresholds:</strong> High-value customer segments were identified where point accumulation thresholds correlated more strongly with income.</li> 
-<li><strong>Customer Sentiment:</strong> Customer reviews were proven to be overwhelingly positive. No blockers to my proposed strategy materialised from statistical analysis of review text.</li> 
+<ul> <li><strong>Segmentation</strong>KMeans clustering on ARR and seat volume revealed two segments: Premier (78 accounts) and Core (422 accounts). Firmographic data showed no distinct groupings</li> <li><strong>Health scoring</strong> Weighted framework using usage (50%) and support (50%) metrics. Scores range 21–80 (mean 66). Core accounts have 94 low-scoring outliers — prioritised for intervention</li> 
+<li><strong>Churn prediction</strong>V1 model combining usage trends and support tickets. Accuracy 57%, precision 26%, recall 46%. Flags 38 Premier accounts ($23.4M ARR, $6.1M at risk)</li> 
 </ul>
 
 <h2>Recommendations</h2> 
-<ul> <li>Launch targeted rewards programmes built around the predictive thresholds identified.</li> 
-<li>Tailor rewards specifically to the customer personas developed from the clustering process.</li> 
-<li>Target adverts at specific audiences.</li> </ul>
+<ul> <li><strong>Process review and internal alignment</strong>Assign named CSM resources to Premier accounts; pooled CSM resources to Core
+accounts</li> <li><strong>Just in time intervention plan</strong>High priority, medium priority and continuous plans to protect over $30M ARR/li> 
+<li><strong>Expansion plan</strong>Consolodate plan-tiers for Premier customeers for simplified billing and improved end-user experience</li> 
+</ul>
 </div>
 </div>
 
