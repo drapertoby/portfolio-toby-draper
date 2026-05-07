@@ -7,7 +7,7 @@ permalink: /customer_success_analytics/
 <div class="card">
       <h2>Customer Success Analytics</h2>
    <div class="about-content">
-      <p>I worked for BMC Software for 16 years, culminating in 7 years leading customer facing teams in Technical Support and Customer Success. These projects showcase my analytical skills, focusing on the industry I come from, to help businesses to protect and grow revenue retention.</p>
+      <p>Operational experience, analytical skills, and leadership. Individually, they are highly valued. I bring all three. This project shows what happens when you combine years of leading customer-facing teams with data analytics. Read the case study. Evaluate my code. Then let's chat about how I can help your organisation protect and grow recurring revenue.</p>
     </div>
   </div>
 
