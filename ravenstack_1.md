@@ -61,12 +61,12 @@ Your first task is to carry out explorative, explanatory and predictive analysis
 
 <div class="file-grid">
   <div class="file-item card">
-    <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/RavenStack_SaaS_Analysis/RavenStack_Case_Study.pdf" target="_blank" rel="noopener"><strong>Case Study</strong></a></div>
+    <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon" alt="PDF icon">
+    <div><a href="https://raw.githubusercontent.com/drapertoby/TD_Data_Projects/main/RavenStack_SaaS_Analysis/RavenStack_Case_Study.pdf" download target="_blank" rel="noopener"><strong>Case Study</strong></a></div>
   </div>
   <div class="file-item card">
-    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/RavenStack_SaaS_Analysis/RavenStack_Final_V1_0.ipynb" target="_blank" rel="noopener"><strong>Code (Jupyter Notebook)</strong></a></div>
+    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon" alt="Jupyter Notebook icon">
+    <div><a href="https://raw.githubusercontent.com/drapertoby/TD_Data_Projects/main/RavenStack_SaaS_Analysis/RavenStack_Final_V1_0.ipynb" download target="_blank" rel="noopener"><strong>Code (Jupyter Notebook)</strong></a></div>
   </div>
 </div>
 
