@@ -60,15 +60,15 @@ permalink: /c1_submission/
 <div class="file-grid">
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Toby_Draper_2Market_Technical_Report.pdf" target="_blank" rel="noopener"><strong>Technical Report</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/retail_marketing/Toby_Draper_2Market_Technical_Report.pdf" download><strong>Technical Report</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/tableau_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Toby_Draper_2Market_Dashboard.twbx" target="_blank" rel="noopener"><strong>Tableau Workbook</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/retail_marketing/Toby_Draper_2Market_Dashboard.twbx" download><strong>Tableau Workbook</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/retail_marketing/Course_1_Feedback.pdf" target="_blank" rel="noopener"><strong>Facilitator Feedback</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/retail_marketing/Course_1_Feedback.pdf" download><strong>Facilitator Feedback</strong></a></div>
   </div>
 </div>
 ---

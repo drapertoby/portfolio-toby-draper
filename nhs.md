@@ -66,15 +66,15 @@ permalink: /nhs/
 <div class="file-grid">
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/nhs_appointment_analysis/Draper_Toby_DA201_Assignment_Report.pdf" target="_blank" rel="noopener"><strong>Technical Report</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/nhs_appointment_analysis/Draper_Toby_DA201_Assignment_Report.pdf" download><strong>Technical Report</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/nhs_appointment_analysis/Draper_Toby_DA201_Assignment_Notebook.ipynb" target="_blank" rel="noopener"><strong>Code (Jupyter Notebook)</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/nhs_appointment_analysis/Draper_Toby_DA201_Assignment_Notebook.ipynb" download><strong>Code (Jupyter Notebook)</strong></a></div>
   </div>
   <div class="file-item card">
     <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
-    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/nhs_appointment_analysis/Toby_Draper_Assignment_Feedback.pdf" target="_blank" rel="noopener"><strong>Facilitator Feedback</strong></a></div>
+    <div><a href="/portfolio-toby-draper/downloads/nhs_appointment_analysis/Toby_Draper_Assignment_Feedback.pdf" download><strong>Facilitator Feedback</strong></a></div>
   </div>
 </div>
 
