@@ -20,7 +20,7 @@ permalink: /customer_success_analytics/
     </div>
     <div class="project-info">
       <a href="/portfolio-toby-draper/ravenstack_1/"><strong>RavenStack – Updating Reactive Customer Success Operations</strong></a><br>
-      <p>I used Python and R to analyse account, subscription, usage, support ticket, and churn event data. I wrote a case study that frames my analysis and draws on industry research (white papers) and my own experience leading customer-facing teams at BMC Software. I built a clustering model using KMeans to differentiate accounts, developed a health scoring framework, and trained a decision tree classifier to predict churn.</p>
+      <p>I used Python to analyse account, subscription, usage, support ticket, and churn event data. I wrote a case study that frames my analysis and draws on industry research and my own experience leading customer-facing teams at BMC Software. I built a clustering model using KMeans to differentiate accounts, developed a health scoring framework, and trained a decision tree classifier to predict churn.</p>
     </div>
   </div>
 </div>
