@@ -27,7 +27,7 @@ Your first task is to carry out explorative, explanatory and predictive analysis
     <h2>Tools and data</h2>
     <p><strong>Tools: </strong>Python</p>
     <p><strong>Python Libraries: </strong>Pandas (data operations), numpy (numeric operations), datetime (date manipulation), seaborn and matplotlib (visualisations), scikit-learn (predictive analysis), NLTK (Natural Language Processing), scipy.stats (statistical analysis)</p>
-    <p><strong>Data: </strong>A csv file containing 2000 customer records describing demographics (income, education etc), loyalty points accumulation and text from online reviews</p>
+    <p><strong>Data: </strong>Five CSV files: Accounts (500 records), Subscriptions (5000 records), Support Tickets (2000 records), Usage Metrics (25000 records), Churn Events (600 records)</p>
 
     <h2>Method</h2>
     <ul>
@@ -47,9 +47,26 @@ Your first task is to carry out explorative, explanatory and predictive analysis
     <h2>Recommendations</h2>
     <ul>
       <li><strong>Process review and internal alignment: </strong>Assign named CSM resources to Premier accounts; pooled CSM resources to Core accounts</li>
-      <li><strong>Just in time intervention plan: </strong>High priority, medium priority and continuous plans to protect over $30M ARR</li>
+      <li><strong>Just in time intervention plan: </strong>High priority, medium priority and continuous plans to protect over $6M ARR</li>
       <li><strong>Expansion plan: </strong>Consolidate plan-tiers for Premier customers for simplified billing and improved end-user experience</li>
     </ul>
+  </div>
+</div>
+
+---
+
+## Files
+
+<p>Case study and Jupyter Notebook containing code</p>
+
+<div class="file-grid">
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/pdf_icon.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/RavenStack_SaaS_Analysis/RavenStack_Case_Study.pdf" target="_blank" rel="noopener"><strong>Case Study</strong></a></div>
+  </div>
+  <div class="file-item card">
+    <img src="/portfolio-toby-draper/icons/IPy-logo.png" class="file-icon">
+    <div><a href="https://github.com/drapertoby/TD_Data_Projects/raw/main/RavenStack_SaaS_Analysis/RavenStack_Final_V1_0.ipynb" target="_blank" rel="noopener"><strong>Code (Jupyter Notebook)</strong></a></div>
   </div>
 </div>
 

@@ -9,7 +9,7 @@ permalink: /ravenstack_2/
 </div>
 ---
 <div class="back-home">
-  <a href="/portfolio-toby-draper/projects/" class="btn">← Back to Projects</a>
+  <a href="/portfolio-toby-draper/customer_success_analytics/" class="btn">← Back to Previous</a>
 </div>
 <div class="back-home">
   <a href="/portfolio-toby-draper/" class="btn">← Back to Home</a>
