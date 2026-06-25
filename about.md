@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 <div class="card">
-  <h1>Data analyst, business analyst… what's in a job title?</h1>
+  <h1>Data analyst and operational leader</h1>
   
   <div class="about-content">
-    <p>For me, it's the work behind it that counts. I am a former Technical Support and Customer Success Leader at BMC Software. My previous experience provides solid foundations in stakeholder management and leadership, but it was my consistent passion for data that defined my chosen direction.</p>
+    <p>I am a former Technical Support and Customer Success Leader at BMC Software. My previous experience provides solid foundations in stakeholder management and leadership, but it was my consistent passion for data that defined my chosen direction.</p>
 
     <p>I was always fascinated by how business metrics guide service improvements, shape coaching programmes, and provide clear value to internal leaders and clients. Presenting this analysis was the aspect of my work I found most rewarding.</p>
 
