@@ -25,18 +25,6 @@ permalink: /customer_success_analytics/
   </div>
 </div>
 
-<div class="card">
-  <div class="project-layout">
-    <div class="image-container">
-      <img src="/portfolio-toby-draper/images/under_construction.png" alt="Phase 2" />
-    </div>
-    <div class="project-info">
-      <a href="/portfolio-toby-draper/ravenstack_2/"><strong>Data Engineering Phase</strong></a><br>
-     <p>Coming soon! ETL pipeline to productionise the analysis as a proof-of-concept analytical stack.</p>
-    </div>
-  </div>
-</div>
-
 ---
 
 <div class="back-home">
